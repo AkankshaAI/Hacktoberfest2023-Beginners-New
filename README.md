@@ -108,13 +108,13 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 ```Javascript
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Anmol Agarwal
-// GITHUB: https://github.com/fineanmol
+// AUTHOR: Akanksha Rani
+// GITHUB: https://github.com/Akanksha Rani
 
 console.log('Hello, World!');
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_anmolagarwal.js` or `hello_world_anmolagarwal.py`.
+Name the file `hello_world_yourusername.xx`. e.g., `hello_world_akanksharani.js` or `hello_world_akanksharani.py`.
 
 Add your scripts to the specific folder for specific languages created.
 
