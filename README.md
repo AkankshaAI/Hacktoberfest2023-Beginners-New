@@ -125,8 +125,8 @@ Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.c
 ### Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
 ## Our Top Contributors ♥️
-<p align="center"><a href="https://github.com/AkankshaAI/hacktoberfest/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=AkankshaAI/hacktoberfest" />
+<p align="center"><a href="https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=AkankshaAI/Hacktoberfest2023-Beginners-New" />
 </a></p>
 
 
