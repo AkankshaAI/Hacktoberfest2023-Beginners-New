@@ -125,11 +125,6 @@ Here is my `hello_world` example: [Akanksha.py](https://github.com/AkankshaAI/Ha
 
 ### Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
-## Our Top Contributors ♥️
-<p align="center"><a href="https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=AkankshaAI/Hacktoberfest2023-Beginners-New" />
-</a></p>
-
 
 ## Maintainer
 ## + Follow Me : } Quick Approval of Pull Request
