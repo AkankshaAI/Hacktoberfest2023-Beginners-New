@@ -27,6 +27,7 @@
 ## Getting started
 
 - Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+- You can directly make changes through Github or you can use VScode and commit by following the steps below
 - Clone your fork down to your local machine
 
 ```markdown
