@@ -103,15 +103,17 @@ Your School
 
 ### 3. Create a `Hello, World!` Script
 
-Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+Add a `yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
-```Javascript
-// LANGUAGE: Javascript
-// ENV: Node.js
+```Python
+// LANGUAGE: Python
 // AUTHOR: Akanksha Rani
 // GITHUB: https://github.com/Akanksha Rani
 
-console.log('Hello, World!');
+# This program is in python!
+
+print('Hello, Hacktoberfest 2023!')
+
 ```
 
 Name the file `hello_world_yourusername.xx`. e.g., `hello_world_akanksharani.js` or `hello_world_akanksharani.py`.
