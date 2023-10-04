@@ -30,7 +30,7 @@
 - Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/fineanmol/hacktoberfest.git
+git clone https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New.git
 ```
 
 - Create a branch
