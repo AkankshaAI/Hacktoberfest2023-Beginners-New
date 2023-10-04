@@ -12,13 +12,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/hacktoberfest-2023-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/AkankshaAI" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/AkankshaAI/hacktoberfest2023/pulls"><img src="https://img.shields.io/github/issues-pr/AkankshaAI/hacktoberfest2023" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/AkankshaAI/hacktoberfest2023/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AkankshaAI/hacktoberfest2023?color=2b9348"></a>
-<a href="https://github.com/AkankshaAI/hacktoberfest2023/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AkankshaAI/hacktoberfest2023?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New/pulls"><img src="https://img.shields.io/github/issues-pr/AkankshaAI/Hacktoberfest2023-Beginners-New" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AkankshaAI/Hacktoberfest2023-Beginners-New?color=2b9348"></a>
+<a href="https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AkankshaAI/Hacktoberfest2023-Beginners-New?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
@@ -103,15 +102,17 @@ Your School
 
 ### 3. Create a `Hello, World!` Script
 
-Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+Add a `yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
-```Javascript
-// LANGUAGE: Javascript
-// ENV: Node.js
+```Python
+// LANGUAGE: Python
 // AUTHOR: Akanksha Rani
 // GITHUB: https://github.com/Akanksha Rani
 
-console.log('Hello, World!');
+# This program is in python!
+
+print('Hello, Hacktoberfest 2023!')
+
 ```
 
 Name the file `hello_world_yourusername.xx`. e.g., `hello_world_akanksharani.js` or `hello_world_akanksharani.py`.
@@ -120,14 +121,9 @@ Add your scripts to the specific folder for specific languages created.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial.
 
-Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/fineanmol/hacktoberfest/blob/master/scripts/hello_world_anmol_agarwal.js)
+Here is my `hello_world` example: [Akanksha.py](https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New/tree/main/Scripts)
 
 ### Choose one or all 3, make a pull request for your work and wait for it to be merged!
-
-## Our Top Contributors ♥️
-<p align="center"><a href="https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=AkankshaAI/Hacktoberfest2023-Beginners-New" />
-</a></p>
 
 
 ## Maintainer
