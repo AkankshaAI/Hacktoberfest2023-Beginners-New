@@ -45,5 +45,11 @@
 - Bio: Web Developer
 - Affiliation : CNX University
 - GitHub: [aecuto](https://github.com/aecuto)
->>>>>>> main
 
+>>>>>>> main
+#### Name: [Spandan Tripathy](https://github.com/CrypticRevenger)
+
+- Place: Berhampur,Odisha,India
+- Bio: Web developer, Open Source Contrbutor , Machine Learning
+- Affiliation - Vellore Institute Of Technology
+- GitHub:  [CrypticRevenger](https://github.com/CrypticRevenger)
