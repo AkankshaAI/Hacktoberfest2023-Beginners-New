@@ -12,3 +12,10 @@
 - Bio: Cyber Security Analyst , Open Source Contributor , Web Developer
 - Affiliation : University Estácio de Sá
 - GitHub: [MMVonnSeek](https://github.com/MMVonnSeek)
+
+#### Name: [aecuto](https://github.com/aecuto)
+
+- Place: Thailand
+- Bio: Web Developer
+- Affiliation : CNX University
+- GitHub: [aecuto](https://github.com/aecuto)
