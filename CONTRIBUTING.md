@@ -69,7 +69,7 @@
 - Affiliation : India Gandhi Delhi Technical University for Women
 - GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
 =======
-#### Vivek Chatterjee
+#### Name: [Vivek Chatterjee](https://github.com/VivekChatterjee)
 - Place: Jamshedpur, Jharkhand, India
 - Bio: Full Stack Developer, Open Source Contributor, Love Chess
 - Affiliation : Lovely Professional University, Punjab
