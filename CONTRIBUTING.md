@@ -61,3 +61,10 @@
 - Bio: Full Stack Developer, Open Source Contributor, Love Chess
 - Affiliation : Lovely Professional University, Punjab
 - GitHub: [VivekChatterjee](https://github.com/VivekChatterjee)
+
+#### Name: [Aditi](https://github.com/aditi5926)
+
+- Place: Delhi, India
+- Bio: Passionate WebDeveloper
+- Affiliation : NSUT
+- Github: [Aditi](https://github.com/aditi5926)
