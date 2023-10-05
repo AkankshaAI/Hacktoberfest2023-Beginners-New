@@ -19,3 +19,10 @@
 - Bio: Web Developer
 - Affiliation : CNX University
 - GitHub: [aecuto](https://github.com/aecuto)
+
+#### Name: [Vaibhav Goyal](https://github.com/vaibhav171203)
+
+- Place: New Delhi,India
+- Bio: Web Developer
+- Affiliation : NSUT Delhi
+- GitHub: [vaibhav171203](https://github.com/vaibhav171203)
