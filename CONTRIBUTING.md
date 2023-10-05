@@ -53,3 +53,11 @@
 - Bio: Web developer, Open Source Contrbutor , Machine Learning
 - Affiliation - Vellore Institute Of Technology
 - GitHub:  [CrypticRevenger](https://github.com/CrypticRevenger)
+
+
+#### Name: [Vivek Chatterjee](https://github.com/VivekChatterjee)
+
+- Place: Jamshedpur, Jharkhand, India
+- Bio: Full Stack Developer, Open Source Contributor, Love Chess
+- Affiliation : Lovely Professional University, Punjab
+- GitHub: [VivekChatterjee](https://github.com/VivekChatterjee)
