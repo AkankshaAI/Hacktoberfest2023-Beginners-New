@@ -17,6 +17,6 @@
 #### Name: [Rishika Suhag](https://github.com/rishikasuhag)
 
 - Place: New Delhi,India
-- Bio: Graphics and UI designer, content writer, works with AI/ML.
+- Bio: Graphics and UI designer, content writer, AI/ML enthusiast.
 - Affiliation : Indira Gandhi Delhi Technical University for Women
 - GitHub: [rishikasuhag](https://github.com/rishikasuhag)
