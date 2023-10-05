@@ -61,3 +61,8 @@
 - Bio: Full Stack Developer, Open Source Contributor, Love Chess
 - Affiliation : Lovely Professional University, Punjab
 - GitHub: [VivekChatterjee](https://github.com/VivekChatterjee)
+#### Name: [Anusha Tomar](https://github.com/anushatomar13)
+- Place: New Delhi, India
+- Bio: Web developer, Open Source Contrbutor , Machine Learning
+- Affiliation - MSIT, New Delhi
+- GitHub:  [Anusha Tomar](https://github.com/anushatomar13)
