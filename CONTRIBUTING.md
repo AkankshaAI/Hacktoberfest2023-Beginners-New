@@ -53,3 +53,10 @@
 - Bio: Web developer, Open Source Contrbutor , Machine Learning
 - Affiliation - Vellore Institute Of Technology
 - GitHub:  [CrypticRevenger](https://github.com/CrypticRevenger)
+>>>>>>> main
+#### Name: [Anusha Tomar](https://github.com/anushatomar13)
+
+- Place: New Delhi, India
+- Bio: Web developer, Open Source Contrbutor , Machine Learning
+- Affiliation - MSIT, New Delhi
+- GitHub:  [Anusha Tomar](https://github.com/anushatomar13)
