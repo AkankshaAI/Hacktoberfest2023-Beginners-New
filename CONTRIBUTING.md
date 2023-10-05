@@ -12,3 +12,11 @@
 - Bio: Cyber Security Analyst , Open Source Contributor , Web Developer
 - Affiliation : University Estácio de Sá
 - GitHub: [MMVonnSeek](https://github.com/MMVonnSeek)
+
+#### Name: [Namya Jain](https://github.com/Namya13Jain)
+
+- Place: New Delhi, India
+- Bio: Flutter Developer, Open Source Contributor,Learning Data Science
+- Affiliation : Indira Gandhi Delhi Technical University for Women 
+- GitHub: [Namya13Jain](https://github.com/Namya13Jain)
+
