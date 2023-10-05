@@ -13,9 +13,10 @@
 - Affiliation : University Estácio de Sá
 - GitHub: [MMVonnSeek](https://github.com/MMVonnSeek)
 
-#### Name: [aecuto](https://github.com/aecuto)
+#### Name: [Namya Jain](https://github.com/Namya13Jain)
 
-- Place: Thailand
-- Bio: Web Developer
-- Affiliation : CNX University
-- GitHub: [aecuto](https://github.com/aecuto)
+- Place: New Delhi, India
+- Bio: Flutter Developer, Open Source Contributor,Learning Data Science
+- Affiliation : Indira Gandhi Delhi Technical University for Women 
+- GitHub: [Namya13Jain](https://github.com/Namya13Jain)
+
