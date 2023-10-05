@@ -13,10 +13,10 @@
 - Affiliation : University Estácio de Sá
 - GitHub: [MMVonnSeek](https://github.com/MMVonnSeek)
 
-#### Name: [Namya Jain](https://github.com/Namya13Jain)
+#### Name: [Simran Verma](https://github.com/AkankshaAI)
 
-- Place: New Delhi, India
-- Bio: Flutter Developer, Open Source Contributor,Learning Data Science
-- Affiliation : Indira Gandhi Delhi Technical University for Women 
-- GitHub: [Namya13Jain](https://github.com/Namya13Jain)
-
+- Place: Varanasi, India
+- Bio: Coder, Frontend Developer
+- Affiliation : Kalinga Institute of Industrial Technology, Bhubaneswar
+- GitHub: [Simranverma123](https://github.com/Simranverma123)
+=======
