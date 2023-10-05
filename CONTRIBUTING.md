@@ -59,6 +59,13 @@
 - Affiliation - MSIT, New Delhi
 - GitHub:  [Anusha Tomar](https://github.com/anushatomar13)
 
+#### Name: [Sumit Br](https://github.com/SumitBr)
+
+- Place: Dhaka, Bangladesh
+- Bio: Deep Learning, Machine Learning, Open Source Contrbutor 
+- Affiliation - BRAC University
+- GitHub:  [Sumit Br](https://github.com/SumitBr)
+
 
 <<<<<<< main
 
