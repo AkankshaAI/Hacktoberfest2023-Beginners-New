@@ -1,0 +1,77 @@
+body {
+	background-color: rgb(197, 142, 249);
+	font-family: "Roboto", sans-serif;
+}
+body .dictionary_container {
+	background-color: white;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 50px;
+	border-radius: 20px;
+	box-shadow: 1px 1px 23px 5px rgba(0, 0, 0, 0.29);
+	-webkit-box-shadow: 1px 1px 23px 5px rgba(0, 0, 0, 0.29);
+	-moz-box-shadow: 1px 1px 23px 5px rgba(0, 0, 0, 0.29);
+	width: 40%;
+}
+body .dictionary_container .search {
+	display: flex;
+	justify-content: space-between;
+	gap: 10px;
+	margin-bottom: 50px;
+}
+body .dictionary_container .search .text {
+	flex: 1;
+	border: none;
+	outline: none;
+	font-size: 1.5rem;
+	padding: 10px 5px;
+	border-bottom: solid 5px rgb(197, 142, 249);
+}
+body .dictionary_container .search button {
+	padding: 10px 30px;
+	background-color: rgb(197, 142, 249);
+	outline: none;
+	border: none;
+	color: white;
+	border-radius: 10px;
+	cursor: pointer;
+}
+body .dictionary_container .search button:hover {
+	background-color: rgb(207, 175, 237);
+}
+body .dictionary_container .result .word {
+	display: flex;
+	justify-content: space-between;
+}
+body .dictionary_container .result .word i {
+	color: rgb(197, 142, 249);
+	font-size: 30px;
+	cursor: pointer;
+}
+body .dictionary_container .result .word i:hover {
+	color: rgb(207, 175, 237);
+}
+body .dictionary_container .result .word .word_text {
+	font-size: 35px;
+}
+body .dictionary_container .result .word .details {
+	margin-top: 30px;
+}
+body .dictionary_container .result .small {
+	display: flex;
+	gap: 10px;
+}
+body .dictionary_container .result .small > div {
+	font-size: 1.2rem;
+	color: rgb(156, 157, 158);
+}
+body .dictionary_container .result .details .history {
+	font-size: 1.2rem;
+	color: rgb(75, 73, 72);
+	font-weight: 400;
+	padding-left: 20px;
+	border-left: solid 5px rgb(207, 175, 237);
+	margin-bottom: 40px;
+}
