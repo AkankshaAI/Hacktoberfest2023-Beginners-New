@@ -80,6 +80,11 @@
 - Affiliation - BRAC University
 - GitHub:  [Sumit Br](https://github.com/SumitBr)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
+>>>>>>> 7cd1566 (Fix the CONTRIBUTING file.)
 
 #### Name: [Ishita Rakchhit](https://github.com/ishitarakchhit)
 
@@ -87,14 +92,28 @@
 - Bio: Frontend Developer, ML enthusiast, avid reader 
 - Affiliation : India Gandhi Delhi Technical University for Women
 - GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
+
+#### Name: [Vivek Chatterjee](https://github.com/VivekChatterjee)
+- Place: Jamshedpur, Jharkhand, India
+- Bio: Full Stack Developer, Open Source Contributor, Love Chess
+- Affiliation : Lovely Professional University, Punjab
+- GitHub: [VivekChatterjee](https://github.com/VivekChatterjee)
+
+
+>>>>>>> main
+
+>>>>>>> 7cd1566 (Fix the CONTRIBUTING file.)
 #### Name: [Aditi](https://github.com/aditi5926)
 
 - Place: Delhi, India
 - Bio: Passionate WebDeveloper
 - Affiliation : NSUT
 - Github: [Aditi](https://github.com/aditi5926)
-=======
->>>>>>> main
+
 
 >>>>>>> main
 
@@ -121,6 +140,7 @@
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
 
+>>>>>>> 7cd1566 (Fix the CONTRIBUTING file.)
 
 #### Name: [Thalmonn Sales](https://github.com/thalmonn/)
 
