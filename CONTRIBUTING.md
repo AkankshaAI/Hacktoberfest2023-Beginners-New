@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Wahit Fitriyanto](https://www.linkedin.com/in/wahit-fitriyanto)
+
+- Place: Indonesia
+- Bio: Software Engineer | Student at Boyolali University
+- Affiliation : Boyolali University
+- GitHub: [Wahit Fitriyanto](https://github.com/wahitftry)
