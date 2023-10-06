@@ -74,7 +74,8 @@
 - GitHub:  [Anusha Tomar](https://github.com/anushatomar13)
 
 
-<<<<<<< main
+
+>>>>>>> main
 
 #### Name: [Ishita Rakchhit](https://github.com/ishitarakchhit)
 
@@ -82,7 +83,9 @@
 - Bio: Frontend Developer, ML enthusiast, avid reader 
 - Affiliation : India Gandhi Delhi Technical University for Women
 - GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
-=======
+
+>>>>>>> main
+
 #### Name: [Vivek Chatterjee](https://github.com/VivekChatterjee)
 - Place: Jamshedpur, Jharkhand, India
 - Bio: Full Stack Developer, Open Source Contributor, Love Chess
@@ -90,16 +93,15 @@
 - GitHub: [VivekChatterjee](https://github.com/VivekChatterjee)
 
 
-
 >>>>>>> main
+
 #### Name: [Aditi](https://github.com/aditi5926)
 
 - Place: Delhi, India
 - Bio: Passionate WebDeveloper
 - Affiliation : NSUT
 - Github: [Aditi](https://github.com/aditi5926)
-=======
->>>>>>> main
+
 
 >>>>>>> main
 
@@ -119,6 +121,7 @@
 - Affiliation - Great Learning, Problem solver.
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
 
+>>>>>>> main
 
 #### Name: [Thalmonn Sales](https://github.com/thalmonn/)
 
