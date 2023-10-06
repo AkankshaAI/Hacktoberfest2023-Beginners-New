@@ -120,3 +120,8 @@
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
 
 
+#### Name: [Thalmonn Sales](https://github.com/thalmonn/)
+
+- Place: João Pessoa, Paraíba, Brazil
+- Bio: Back-end developer
+- GitHub: [thalmonn](https://github.com/thalmonn/)
