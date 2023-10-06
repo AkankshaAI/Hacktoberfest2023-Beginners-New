@@ -10,7 +10,7 @@ Academy of Technolody
 
 ### Interests
 
-Articial Intelegence ,
+Machine Learning
 
 ### Profile Link
 
