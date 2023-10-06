@@ -13,6 +13,14 @@
 - Affiliation : University Estácio de Sá
 - GitHub: [MMVonnSeek](https://github.com/MMVonnSeek)
 
+#### Name: [Hritik Kumar](https://github.com/hritik-6918)
+
+- Place: West Bengal,India
+- Bio: SDE intern at Desiqna, Open Source Contributor, Web Developer
+- Affiliation : Techno main salt lake kolkata
+- GitHub: [Hritik kumar](https://github.com/hritik-6918)
+
+
 #### Name: [Rishika Suhag](https://github.com/rishikasuhag)
 
 - Place: New Delhi,India
