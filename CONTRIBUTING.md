@@ -133,6 +133,7 @@
 - Affiliation - Great Learning, Problem solver.
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
 
+<<<<<<< HEAD
 #### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan)
 
 - Place: Pakistan, Islamabad
@@ -142,6 +143,8 @@
 
 >>>>>>> 7cd1566 (Fix the CONTRIBUTING file.)
 
+=======
+>>>>>>> 8b43739 (Fix the author CONTRIBUTING file.)
 #### Name: [Thalmonn Sales](https://github.com/thalmonn/)
 
 - Place: João Pessoa, Paraíba, Brazil
