@@ -20,6 +20,12 @@
 - Affiliation : Techno main salt lake kolkata
 - GitHub: [Hritik kumar](https://github.com/hritik-6918)
 
+#### Name: [Jatin](https://github.com/oyejateen)
+
+- Place: Rajasthan, India
+- Bio: Btech Cse student, community intern at Replit.
+- Affiliation: MLVTEC, RTU
+- GitHub: [Jatin](https://github.com/oyejateen)
 
 #### Name: [Rishika Suhag](https://github.com/rishikasuhag)
 
