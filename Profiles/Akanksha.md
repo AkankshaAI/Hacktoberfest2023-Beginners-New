@@ -14,7 +14,7 @@ Dancing,Coding and Travelling
 
 ### Development(Mention projects if any)
 
-Breast Cancer Prediction Project, IEEE IGDTUW website
+Breast Cancer Prediction Projhiii
 
 ### Profile Link
 
