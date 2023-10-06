@@ -134,6 +134,7 @@
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan)
 
 - Place: Pakistan, Islamabad
@@ -145,8 +146,19 @@
 
 =======
 >>>>>>> 8b43739 (Fix the author CONTRIBUTING file.)
+=======
+<<<<<<< main
+>>>>>>> c0e9b4f (Fix the CONTRIBUTING file.)
 #### Name: [Thalmonn Sales](https://github.com/thalmonn/)
 
 - Place: João Pessoa, Paraíba, Brazil
 - Bio: Back-end developer
 - GitHub: [thalmonn](https://github.com/thalmonn/)
+=======
+#### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan)
+
+- Place: Pakistan, Islamabad
+- Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
+- Affiliation : Air University
+- GitHub: [Abdul Rehan](https://github.com/abrehan2)
+>>>>>>> main
