@@ -80,6 +80,8 @@
 - Affiliation - BRAC University
 - GitHub:  [Sumit Br](https://github.com/SumitBr)
 
+<<<<<<< HEAD
+=======
 
 <<<<<<< main
 
@@ -97,7 +99,6 @@
 - GitHub: [VivekChatterjee](https://github.com/VivekChatterjee)
 
 
-
 >>>>>>> main
 #### Name: [Aditi](https://github.com/aditi5926)
 
@@ -105,8 +106,7 @@
 - Bio: Passionate WebDeveloper
 - Affiliation : NSUT
 - Github: [Aditi](https://github.com/aditi5926)
-=======
->>>>>>> main
+
 
 >>>>>>> main
 
@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Thalmonn Sales](https://github.com/thalmonn/)
+
+- Place: João Pessoa, Paraíba, Brazil
+- Bio: Back-end developer
+- GitHub: [thalmonn](https://github.com/thalmonn/)
