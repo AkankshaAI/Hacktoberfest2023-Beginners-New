@@ -10,7 +10,7 @@ IGDTUW
 
 ### Interests
 
-Dancing,Coding and Travelling
+Dancing,Coding and Eating
 
 ### Development(Mention projects if any)
 
