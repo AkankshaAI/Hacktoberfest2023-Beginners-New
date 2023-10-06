@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Kamran KB](https://www.linkedin.com/in/kamrankb/)
+
+- Place: Pakistan, Karachi
+- Bio: Full Stack Developer | PHP(Laravel, CodeIgniter) | JavaScript(VueJS, Nuxt, ReactJS)
+- Affiliation : NUCES (Formerly FAST National University)
+- GitHub: [Kamran KB](https://github.com/kamrankb)
