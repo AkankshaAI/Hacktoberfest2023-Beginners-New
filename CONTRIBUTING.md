@@ -104,4 +104,13 @@
 - Affiliation - Great Learning
 - GitHub: [CrypticRevenger](https://github.com/DhananjayGoyalGL)
 
+>>>>>>> main
+
+### Name: [Sahil Singh](https://github.com/sahilrajput18)
+
+- Place: Kanpur, Uttar Pradesh.
+- Bio: Web Developer, Cricketer
+- Affiliation - Great Learning, Problem solver.
+- GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
+
 
