@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Vanshika](https://twitter.com/Vanshika_owo)
+
+- Place: New Delhi, Delhi, India
+- Bio: Software Engineer | web3 | AI/ML | Crypto
+- GitHub: [Casper-69](https://github.com/Casper-69)
