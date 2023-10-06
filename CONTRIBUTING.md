@@ -119,4 +119,9 @@
 - Affiliation - Great Learning, Problem solver.
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
 
+#### Name: [Bupendra Wijegunawardhana](https://github.com/bupendradhyan)
+
+- Place: Galle, Sri Lanka.
+- Bio: Undergraduate, Tech enthusiast 
+- GitHub: [Bupendra Wijegunawardhana](https://github.com/bupendradhyan)
 
