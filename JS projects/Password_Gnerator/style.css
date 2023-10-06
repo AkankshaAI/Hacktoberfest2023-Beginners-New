@@ -1,0 +1,288 @@
+@font-face {
+    font-family: Gaming;
+    src: url(/BLOMBERG.otf);
+}
+
+:root {
+    --lm-bg: #f6f8ff;
+    --lm-bg-content: #fefefe;
+    --lm-text: #4b6a9b;
+    --lm-text-alt: #2b3442;
+    --lm-btn: #0077ff8d;
+
+
+    --lm-shadow: 0px 16px 30px -10px rgba(70, 96, 187, 0.2);
+
+
+    --lm-icon-bg: brightness(100%);
+    /* Btn */
+    --btn: #0079ff;
+    --btn-hover: #60abff;
+}
+
+*::selection {
+    color: #fff;
+    background-color: #000;
+}
+
+
+.darkTheme {
+         /* dark */
+
+   --lm-bg: #141D2F;
+   --lm-bg-content: #1E2A47;
+     
+    /* dark  */
+
+    --lm-text: #FFFFFF;
+    --lm-text-alt: #d5d8dd;
+    --lm-btn: #0077ff8d;
+    --lm-shadow-inactive: 0px 16px 30px -10px rgba(0, 0, 0, 0.2);
+
+
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper {
+    overflow-x: hidden;
+    width: 100%;
+    min-height: 100vh;
+    background-color: var(--lm-bg);
+    font-family: Gaming;
+    position: relative;
+    color: var(--lm-text-alt);
+
+}
+
+.page1 {
+    width: 70%;
+    height: 20%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3vw 0vw;
+}
+
+.page1 h1 {
+    font-size: 3vw;
+    font-weight: 500;
+    color: var(--lm-text-alt);
+}
+
+.page1-text {
+    display: flex;
+    align-items: center;
+    gap: 2.6vw;
+}
+.page1-text #text-Light {
+    display: none;
+}
+
+
+
+.page1-text #light {
+    display: none;
+}
+
+
+
+
+.page1-text p {
+    cursor: pointer;
+    font-size: 1.3vw;
+    color: var(--lm-text-alt);
+}
+
+.page1-text i {
+    font-size: 1.7vw;
+    cursor: pointer;
+    transition: all 0.3s ease-in;
+}
+
+.page1-text i:hover {
+    transform: rotate(-0.25turn);
+    color: #2b3442c0;
+}
+
+
+.page2 {
+    background-color: var(--lm-bg-content);
+    box-shadow: var(--lm-shadow);
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1vw 6vw;
+    border-radius: 1vw;
+    margin-top: -.7vw;
+}
+
+.page2 .page2-searchbar {
+    margin-left: -4vw;
+    display: flex;
+    flex-direction: row;
+    gap: .8vw;
+    border: none;
+    align-items: center;
+}
+
+.page2-searchbar #name {
+    font-size: 1.5vw;
+    border: none;
+    color: var(--lm-text);
+    letter-spacing: 2px;
+    outline: none;
+   background-color:var(--lm-bg-content);
+}
+.page2 .error #search-icons {
+    display: none;
+    cursor: pointer;
+    font-size: 1.1vw;
+}
+#no-result {
+    display: none;
+  text-decoration: underline;
+  text-shadow: 4px 4px 6px #ffffff5d;
+}
+.page2 .error {
+    display: flex;
+    align-items: center;
+    gap: 3.7vw;
+}
+
+.page2-searchbar i {
+    font-size: 1.8vw;
+    color: var(--btn);
+}
+
+.page2-button {
+    margin-right: -4vw;
+}
+
+.page2-button button {
+    padding: 2vw 3vw;
+    border: none;
+    all: unset;
+    font-size: 1.2vw;
+    background-color: var(--lm-btn);
+    padding: .8vw 2vw;
+    border-radius: .5vw;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.page2-button button:hover {
+    background-color: #0077ff55;
+
+}
+
+.page3 {
+    width: 50%;
+    min-height: 60vh;
+    background-color: var(--lm-bg-content);
+    margin: 0 auto;
+    box-shadow: 0px 16px 30px -10px rgba(70, 96, 187, 0.2);
+    border-radius: 1vw;
+    margin-top: 2vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.page3-content {
+    height: 23vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#avatar {
+    width: 140px;
+    height: 140px;
+    border-radius: 90px;
+    margin-left: 1.5vw;
+  }
+.page3-userinfo {
+    margin-right: 8vw;
+    margin-top: 3vw;
+}
+
+.page3-userinfo h1 {
+    font-size: 2.5vw;
+    margin-top: -2vw;
+    line-height: 2.4vw;
+}
+
+.page3-userinfo a {
+    font-size: 1.3vw;
+    text-decoration: line-through;
+    line-height: 2.5vw;
+}
+
+.page3-userinfo p {
+font-size: 1.1vw;
+min-width: 220px;
+min-height: 50px;
+}
+
+.page3-content .github-date{
+    margin-right: 5vw;
+    margin-top: -5vw;
+    font-size: 1.3vw;
+}
+
+.page3-profile-desc {
+    background-color: var(--lm-bg);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    border-radius: 1vw;
+    width: 490px;
+    height: 95px;
+    margin-left: 12.5vw;
+}
+.page3-profile-desc .repos {
+    display: flex;
+    flex-direction: column;
+    gap: 1.8vw;
+}
+.repos .repo-text {
+    font-size: 2vw;
+    color: var(--lm-text-alt);
+}
+.page3-links1 {
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+}
+.page3-links1 .first-link {
+    margin-top: 2vw;
+    margin-left: 7vw;
+    display: flex;
+    align-items: center;
+    gap: .5vw;
+}
+/* .page3-links1 .first-link .push{
+    margin-right: 12px;
+} */
+.page3-links1 .first-link i {
+    font-size: 1.5vw;
+    color: var(--lm-text);
+}
+
