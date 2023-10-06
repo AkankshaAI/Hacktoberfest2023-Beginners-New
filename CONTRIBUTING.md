@@ -83,8 +83,7 @@
 <<<<<<< HEAD
 =======
 
->>>>>>> main
->>>>>>> 7cd1566 (Fix the CONTRIBUTING file.)
+<<<<<<< main
 
 #### Name: [Ishita Rakchhit](https://github.com/ishitarakchhit)
 
@@ -92,11 +91,7 @@
 - Bio: Frontend Developer, ML enthusiast, avid reader 
 - Affiliation : India Gandhi Delhi Technical University for Women
 - GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
-<<<<<<< HEAD
 =======
-
->>>>>>> main
-
 #### Name: [Vivek Chatterjee](https://github.com/VivekChatterjee)
 - Place: Jamshedpur, Jharkhand, India
 - Bio: Full Stack Developer, Open Source Contributor, Love Chess
@@ -105,8 +100,6 @@
 
 
 >>>>>>> main
-
->>>>>>> 7cd1566 (Fix the CONTRIBUTING file.)
 #### Name: [Aditi](https://github.com/aditi5926)
 
 - Place: Delhi, India
@@ -132,31 +125,6 @@
 - Bio: Web Developer, Cricketer
 - Affiliation - Great Learning, Problem solver.
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-#### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan)
-
-- Place: Pakistan, Islamabad
-- Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
-- Affiliation : Air University
-- GitHub: [Abdul Rehan](https://github.com/abrehan2)
-
->>>>>>> 7cd1566 (Fix the CONTRIBUTING file.)
-
-=======
->>>>>>> 8b43739 (Fix the author CONTRIBUTING file.)
-=======
-<<<<<<< main
->>>>>>> c0e9b4f (Fix the CONTRIBUTING file.)
-=======
->>>>>>> df40254 (A fix for the CONTRIBUTING file.)
-#### Name: [Thalmonn Sales](https://github.com/thalmonn/)
-
-- Place: João Pessoa, Paraíba, Brazil
-- Bio: Back-end developer
-- GitHub: [thalmonn](https://github.com/thalmonn/)
 
 #### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan)
 
