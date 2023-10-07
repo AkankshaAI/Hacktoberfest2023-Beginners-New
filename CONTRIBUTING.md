@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+ #### Name: [Aman Roy](https://www.linkedin.com/in/aman-roy-242001/)
+
+- Place: Gurgaon,India
+- Bio: Software Engineer | AWS EXPERT | @TATA Technology
+- Affiliation : Siksha O anusandhan University
+- GitHub: [Aman Roy](https://github.com/amanroy2001)
