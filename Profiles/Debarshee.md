@@ -1,8 +1,8 @@
-# Dabarshee 
+# Debarshee 
 
 ### Location
 
-West Bengal
+Kolkata, West Bengal
 
 ### Academics
 
