@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [JC](https://github.com/jorgechaiza)
+
+- Place: Mexico
+- Bio: dev in training
+- Affiliation : None
+- GitHub: [Abdul Rehan](https://github.com/jorgechaiza)
