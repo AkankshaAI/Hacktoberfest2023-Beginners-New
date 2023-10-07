@@ -6,7 +6,7 @@ West Bengal,India
 
 ### Academics
 
-TMSL Kolkata
+TMSL Kolkata, West Bengal
 
 ### Interests
 
