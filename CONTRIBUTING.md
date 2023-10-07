@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Sarnabh Haldar](https://www.linkedin.com/in/sarnabh-haldar)
+
+- Place: Kolkata, West Bengal, India
+- Bio: MERN Stack Developer | WhaleCLoud Intern
+- Affiliation : IEMK
+- GitHub: [CODERdotEXE](https://github.com/CODERdotEXE)
