@@ -81,15 +81,6 @@
 - GitHub:  [Sumit Br](https://github.com/SumitBr)
 
 
-<<<<<<< main
-
-#### Name: [Ishita Rakchhit](https://github.com/ishitarakchhit)
-
-- Place: Delhi, India
-- Bio: Frontend Developer, ML enthusiast, avid reader 
-- Affiliation : India Gandhi Delhi Technical University for Women
-- GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
-=======
 #### Name: [Vivek Chatterjee](https://github.com/VivekChatterjee)
 - Place: Jamshedpur, Jharkhand, India
 - Bio: Full Stack Developer, Open Source Contributor, Love Chess
@@ -98,7 +89,6 @@
 
 
 
->>>>>>> main
 #### Name: [Aditi](https://github.com/aditi5926)
 
 - Place: Delhi, India
@@ -132,3 +122,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Abaomi Ogunnusi](https://github.com/drsimplegraffiti)
+
+- Place: Abeokuta, Ogun State, Nigeria
+- Bio: Software Engineer | Backend Developer | Technical Writer | Open Source Contributor
+- GitHub: [drsimplegraffiti](https://github.com/drsimplegraffiti)
