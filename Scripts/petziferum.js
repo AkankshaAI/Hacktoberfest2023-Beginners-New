@@ -1,4 +1,7 @@
 // My Contribution to Hacktoberfest 2023
+// LANGUAGE: Javascript
+// AUTHOR: Petziferum
+// GITHUB: https://github.com/petziferum
     console.log("Hello World!");
 
 export function helloWorldHtml() {
