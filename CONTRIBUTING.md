@@ -6,6 +6,14 @@
 - GitHub: [AkankshaAI](https://github.com/AkankshaAI)
 
 
+#### Name: [Soumojit Shome](https://github.com/Soumojitshome2023)
+
+- Place: West Bengal,India
+- Bio: Programmer, Open Source Contributor, Web Developer
+- Affiliation : Academy of Technology (AOT)
+- GitHub: [Soumojit Shome](https://github.com/Soumojitshome2023)
+
+  
 #### Name: [Max Muller](https://github.com/MMVonnSeek)
 
 - Place: Brasília,Brazil
