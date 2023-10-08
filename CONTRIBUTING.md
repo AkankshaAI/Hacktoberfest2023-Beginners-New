@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+- ### Name: [Raji Gupta](https://github.com/Rajiiee)
+
+- Place: Jhansi(Veerangna Laxmi Bai), Uttar Pradesh.
+- Bio: Web Developer | Student 
+- Affiliation - Ajay Kumar Garg Engineering College, Ghaziabad
+- GitHub: [Raji Gupta](https://github.com/Rajiiee)
