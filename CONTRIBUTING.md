@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Vipul Pandey](https://github.com/i-Vipulpandey)
+
+- Place: Bhopal,India
+- Bio: Open Source Contributor , Web Developer
+- Affiliation : RGPV university bhopal
+- GitHub: [Vipul Pandey](https://github.com/i-Vipulpandey)
