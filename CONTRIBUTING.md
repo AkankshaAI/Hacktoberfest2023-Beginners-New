@@ -1,3 +1,12 @@
+
+#### Name: [nharjes](https://github.com/nharjes)
+
+- Place: NRW,Germany
+- Bio: open minded Front Developer with a passion for design
+- Affiliation : digital agencies, coders who cry while debugging
+- GitHub: [nharjes](https://github.com/nharjes)
+
+
 #### Name: [Akanksha Rani](https://github.com/AkankshaAI)
 
 - Place: New Delhi,India
