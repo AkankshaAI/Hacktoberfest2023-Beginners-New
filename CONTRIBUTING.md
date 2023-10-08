@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Akshat Mangal](https://www.linkedin.com/in/akshat-mangal-812aba223/)
+
+- Place: Hindaun City, Rajasthan
+- Bio: Software developer | MERN Stack Developer 
+- Affiliation: National Institute of Technology, Kurukshetra
+- GitHub: [Akshat Mangal](https://github.com/akshat209141)
