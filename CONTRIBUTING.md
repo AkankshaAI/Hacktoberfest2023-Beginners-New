@@ -130,5 +130,17 @@
 
 - Place: Pakistan, Islamabad
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
-- Affiliation : Air University
+- Affiliation : Air University#### Name: [Akanksha Rani](https://github.com/AkankshaAI)
+
+- Place: New Delhi,India
+- Bio: LFX mentee'23 at Hyperleger,Open Source Contributor , Web Developer
+- Affiliation : Indira Gandhi Delhi Technical University for Women
+- GitHub: [AkankshaAI](https://github.com/AkankshaAI)
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+  #### Name: [Tamil Bharathi](https://github.com/tamil-bharathi)
+
+- Place: Tamil Bharathi,India
+- Bio: Reactjs developer, open source contributor
+- Affiliation : IAnna university
+- GitHub: [TamilBharathi](https://github.com/tamil-bharathi)
