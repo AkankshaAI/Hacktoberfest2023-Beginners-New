@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Amiel Encina](https://github.com/arhencina)
+
+- Place: Manila, Philippines
+- Bio: Software Engineer | Samsung Electronics
+- Affiliation : National University - Manila
+- GitHub: [Amiel Encina](https://github.com/arhencina)
