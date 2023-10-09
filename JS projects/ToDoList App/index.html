@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="source.js"></script>
+</head>
+<body>
+    <div id="hero" class="hero">
+        <h1 class="title">To Do List</h1>
+        <div id="todoApp" class="todo-app">
+            <div id="todoMenu1" class="todo-menu-1">
+                <button
+                    id="toggleAll"
+                    class="toggle-all"
+                    aria-label="Toggle all to do tasks"
+                >
+                    <span class="rotate">&#x276F;</span>
+                </button>
+                <input
+                    id="addTodoTextInput"
+                    class="add-todo-text-input"
+                    type="text"
+                    placeholder="What do you need to do?"
+                    aria-label="Enter to do text"
+                    autofocus
+                />
+            </div>
+            <ul id="todos" class="todos" aria-label="List of to do tasks"></ul>
+            <div id="todoMenu2" class="todo-menu-2">
+                <label
+                    id="todosLeft"
+                    class="todos-left"
+                    aria-label="Number of to do tasks left to complete"
+                ></label>
+                <div id="todoMenu2Buttons" class="todo-menu-2-buttons">
+                    <button
+                        id="showAllTodos"
+                        class="menu-2-button active"
+                        aria-label="Show all to do tasks"
+                    >
+                        All
+                    </button>
+                    <button
+                        id="showUncompletedTodos"
+                        class="menu-2-button"
+                        aria-label="Show active to do tasks"
+                    >
+                        Active
+                    </button>
+                    <button
+                        id="showCompletedTodos"
+                        class="menu-2-button"
+                        aria-label="Show completed to do tasks"
+                    >
+                        Completed
+                    </button>
+                </div>
+                <button
+                    id="deleteCompletedButton"
+                    class="delete-completed-button"
+                    aria-label="Clear completed to do tasks"
+                >
+                    Clear completed
+                </button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
