@@ -5,6 +5,12 @@
 - Affiliation : Indira Gandhi Delhi Technical University for Women
 - GitHub: [AkankshaAI](https://github.com/AkankshaAI)
 
+#### Name: [Abdussalam Mustapha](https://github.com/abdussalam-mustapha)
+
+- Place: Lagos, Nigeria
+- Bio: I am afirst year computer science student and also s fullstack developer
+- GitHub: [abdussalam-mustapha](https://github.com/abdussalam-mustapha)
+
 
 #### Name: [Max Muller](https://github.com/MMVonnSeek)
 
