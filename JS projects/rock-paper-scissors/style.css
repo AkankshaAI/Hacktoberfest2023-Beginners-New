@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(25,25,25);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.final-score{
+    
+    font-size: 13px;
+    text-align: center;
+}
+.reset-button,
+.autoplay-button,
+.yes-button,
+.no-button{
+    border-color: transparent;
+    border-radius: 15px;
+    padding: 7px 10px;
+    margin-left: 5px;
+}
+.yes-button{
+    margin-bottom: 5px;
+}
+
+.reset-button:hover,.autoplay-button:hover{
+    background-color: rgb(208, 203, 203);
+}
+.reset-button:active,.autoplay-button:active{
+    box-shadow: 0px 0px 6px gray;
+}
+.move-icon{
+    height: 60px;
+    width: 60px;
+}
+.move-button{
+    background-color: transparent;
+    border-radius: 120px;
+    padding: 15px;
+    border: 3px solid gray;
+    cursor: pointer;
+}
+.move-button:hover{
+    opacity: 0.6;
+}
+.move-button:active{
+    border-color: azure;
+    opacity: 0.8;
+}
+.main-buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 15px;
+    padding-bottom: 20px;
+}
+.reset-button-container{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.result{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.moves{
+    font-size: 14px;
+    text-align: center;
+}
+
+.reset-msg{
+    display: grid;
+    place-items: center;
+}
