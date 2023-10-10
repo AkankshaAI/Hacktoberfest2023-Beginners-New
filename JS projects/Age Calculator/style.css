@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background: rgb(169,158,255);
+    background: radial-gradient(circle, rgba(169,158,255,1) 0%, rgba(166,189,255,1) 100%);
+    font-family: 'AR One Sans', sans-serif;
+}
+
