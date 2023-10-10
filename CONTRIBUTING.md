@@ -1,3 +1,9 @@
+### Name: [Harshit Kushwah](https://github.com/harshit8439)
+Place: Greater Noida,India
+Bio: Open Source Contributor , Web Developer
+Affiliation : AKTU,Lucknow
+GitHub: [harshit8439]https://github.com/harshit8439
+
 #### Name: [Akanksha Rani](https://github.com/AkankshaAI)
 
 - Place: New Delhi,India
