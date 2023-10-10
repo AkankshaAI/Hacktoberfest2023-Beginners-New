@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  background-image: url("Screenshot\ 2023-05-30\ 122122.png");
+  background-repeat: no-repeat;
+  background-size: 130vw 130vh;
+  background-position: center;
+}
+#container {
+  text-align: center;
+  justify-content: center;
+}
+nav {
+  display: flex;
+}
+nav h1 {
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+  color: rgb(170, 9, 9);
+}
+.logo {
+  display: flex;
+  width: 7vw;
+  height: 7vh;
+  margin: 10px;
+}
+.btn {
+  width: 14vw;
+  margin: 10px;
+  background-color: green;
+  color: greenyellow;
+  cursor: pointer;
+  height: 5vh;
+  border: 1px solid green;
+  border-radius: 8px;
+}
+.btn:hover {
+  background-color: greenyellow;
+  color: black;
+}
+main {
+  margin-bottom: 2rem;
+}
+#canvas {
+  border: 2px solid black;
+}
+#score {
+  font-size: 2rem;
+}
+
+#play-again {
+  font-size: 22px;
+  margin-top: 20px;
+  width: 130px;
+  height: 70px;
+  border: 3px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+  padding: 10px;
+  background-color: green;
+  color: greenyellow;
+}
+#play-again:hover {
+  padding: 10px 20px;
+  background-color: greenyellow;
+  color: black;
+}
+section #score {
+  font-size: 4rem;
+}
+
+.invisible {
+  display: none;
+}
+.game-over {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: greenyellow;
+  border: 1px solid red;
+  /* Need to add some transition: ; */
+}
+.reply {
+  font-weight: bolder;
+  font-size: 4rem;
+  color: red;
+}
+
+.reply p {
+  color: black;
+}
+#current {
+  font-size: 4rem;
+  color: black;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+ 
+}
+.game-over-score {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 1.5rem;
+  font-size: 1.6rem;
+}
+.block {
+  display: none;
+}
+.up-key {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#keyboard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.arrow-key {
+  width: 12vw;
+  height: 7vh;
+  border: 1px solid black;
+  background-color: rgb(216, 214, 214);
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .block {
+    display: contents;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #canvas {
+    width: 200px;
+    height: 200px;
+  }
+}

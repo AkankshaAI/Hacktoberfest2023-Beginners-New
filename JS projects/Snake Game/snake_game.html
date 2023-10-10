@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="snake_game.css">
+    <link rel="icon" href="download.jpg" type="image/png">
+    <title>Snake Mania: Navigate, Grow, and Dominate!</title>
+</head>
+
+<body>
+    <div id="container">
+        <!-- Navbar -->
+        <nav>
+            <!-- logo -->
+            <img src="Screenshot 2023-05-29 170336.png" alt="" class="logo">
+            <h1>Snake Mania: Navigate, Grow, and Dominate!</h1>
+        </nav>
+        <main>
+            <!-- Levels of game -->
+            <div class="diffculty-level">
+                <h3>Difficulty Levels</h3>
+                <button class="btn" id="easy">Easy</button>
+                <button class="btn" id="medium">Medium</button>
+                <button class="btn" id="hard">Hard</button>
+            </div>
+            <!-- Game board -->
+            <canvas id="canvas" width="450" height="450"></canvas>
+
+            <div id="score">
+                <div id="current-score"></div>
+                <div id="highest-score"></div>
+            </div>
+            <!-- Game over  -->
+            <section class=" end-screen invisible">
+                <div class=" game-over ">
+                    <div class="reply">Game Over <p>Your Total score </p>
+                        <div class="game-over-score">
+                            <div id="current"></div>
+                            <div id="high"></div>
+                        </div>
+                    </div>
+                    <!-- Play again -->
+                    <div>
+                        <button id="play-again">Play Again!</button>
+                    </div>
+                </div>
+            </section>
+         </div>
+     </main>
+     <!-- Arrow keys for small devices -->
+    <section class="block">
+        <div class="up-key">
+            <button class="arrow-key" id="up">▲</button>
+        </div>
+        <div id="keyboard">
+
+            <button class="arrow-key" id="left">◀</button>
+            <button class="arrow-key" id="down">▼</button>
+            <button class="arrow-key" id="right">▶</button>
+        </div>
+    </section>
+    <script src="snake_game.js"></script>
+  </body>
+
+
+</html>
