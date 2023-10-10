@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Naman Bagdiya](https://www.github.com/NamanOG)
+
+- Place: Raipur, Chhattisgarh, India
+- Bio: 2nd Year B.E Student learning Full stack Development
+- GitHub: [NamanOG](https://www.github.com/NamanOG)
