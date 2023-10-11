@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+### Name: [RAJSHREE CHANDRA](https://github.com/Rajshree097)
+
+- Place: JANAKPURI  EAST, DELHI
+- Bio: FRONTEND DEVELOPER, VOCALIST
+- Affiliation - MSIT, DELHI
+- GitHub: [RAJSHREE CHANDRA](https://github.com/Rajshree097)

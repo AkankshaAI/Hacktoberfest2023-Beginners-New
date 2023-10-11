@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+        }
+
+        #board {
+            display: grid;
+            grid-template-columns: repeat(3, 100px);
+            grid-template-rows: repeat(3, 100px);
+            gap: 5px;
+            margin-top: 20px;
+        }
+
+        .cell {
+            width: 100px;
+            height: 100px;
+            font-size: 2em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 2px solid #333;
+            cursor: pointer;
+        }
+
+        .cell:hover {
+            background-color: #eee;
+        }
+
+        #message {
+            margin-top: 20px;
+            font-size: 1.2em;
+        }
+    </style>
+    <title>Tic Tac Toe</title>
+</head>
+<body>
+
+<div id="board"></div>
+<div id="message"></div>
+
+<script>
+    let board = ['', '', '', '', '', '', '', '', ''];
+    let currentPlayer = 'X';
+    let gameActive = true;
+
+    const cells = document.querySelectorAll('.cell');
+    const message = document.getElementById('message');
+
+    function checkWinner() {
+        const winPatterns = [
+            [0, 1, 2], [3, 4, 5], [6, 7, 8], // Rows
+            [0, 3, 6], [1, 4, 7], [2, 5, 8], // Columns
+            [0, 4, 8], [2, 4, 6]             // Diagonals
+        ];
+
+        for (const pattern of winPatterns) {
+            const [a, b, c] = pattern;
+            if (board[a] && board[a] === board[b] && board[a] === board[c]) {
+                return board[a];
+            }
+        }
+
+        return null;
+    }
+
+    function checkDraw() {
+        return board.every(cell => cell !== '');
+    }
+
+    function handleCellClick(index) {
+        if (!gameActive || board[index] !== '') return;
+
+        board[index] = currentPlayer;
+        cells[index].textContent = currentPlayer;
+
+        const winner = checkWinner();
+        if (winner) {
+            message.textContent = `Player ${winner} wins!`;
+            gameActive = false;
+        } else if (checkDraw()) {
+            message.textContent = "It's a draw!";
+            gameActive = false;
+        } else {
+            currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
+            message.textContent = `Player ${currentPlayer}'s turn`;
+        }
+    }
+
+    function restartGame() {
+        board = ['', '', '', '', '', '', '', '', ''];
+        currentPlayer = 'X';
+        gameActive = true;
+        message.textContent = "Player X's turn";
+
+        cells.forEach((cell, index) => {
+            cell.textContent = '';
+            cell.addEventListener('click', () => handleCellClick(index));
+        });
+    }
+
+    function createBoard() {
+        const boardElement = document.getElementById('board');
+
+        for (let i = 0; i < 9; i++) {
+            const cell = document.createElement('div');
+            cell.classList.add('cell');
+            cell.addEventListener('click', () => handleCellClick(i));
+            boardElement.appendChild(cell);
+        }
+    }
+
+    createBoard();
+    restartGame();
+</script>
+
+</body>
+</html>
