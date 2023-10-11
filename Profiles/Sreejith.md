@@ -2,7 +2,7 @@
 
 ### Location
 
-Kerala,India
+Trivandrum,Kerala,India
 
 ### Academics
 
