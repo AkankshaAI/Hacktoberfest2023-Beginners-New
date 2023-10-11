@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Sre Padmashiny K](https://github.com/popshiny-0906)
+
+- Place: From Chennai, Tamil Nadu currently residing in Guwahati for my Btech
+- Bio: Btech in Engineering Physics from IIT Guwahati. I enjoy problem solving and exploring various topics that pique my interest
+-
+- GitHub: [popshiny-0906](https://github.com/popshiny-0906)
