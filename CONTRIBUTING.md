@@ -136,5 +136,5 @@
 #### Name: [Sukanya Gurav](https://github.com/sukanyagurav)
 
 - Place: India
-- Bio: Web developer
+- Bio: Web developer | Frontend Developer
 - GitHub: [Sukanya Gurav](https://github.com/sukanyagurav)
