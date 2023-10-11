@@ -4,4 +4,4 @@
 
 # This program is in python programming language!
 
-print('Hello this is Sre Padmashiny, I am very excited to contribute to Hacktoberfest 2023!')
+print('Hello this is Sre Padmashiny, I am very excited to contribute to Hacktoberfest 2023!, I love exploring new topics that pique my interests')
