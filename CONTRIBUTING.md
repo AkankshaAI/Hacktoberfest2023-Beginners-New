@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [KASHISH KHATRI](https://github.com/kashish-219)
+
+- Place: Ahmedabad, Gujarat, India
+- Bio: BCA student 
+- GitHub: [kashish-219](https://github.com/kashish-219)
