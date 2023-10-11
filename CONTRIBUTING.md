@@ -135,7 +135,7 @@
 
 #### Name: [Sreejith P](https://www.linkedin.com/in/sreejith-p10)
 
-- Place: Kerala, India
+- Place: Trivandrum,Kerala, India
 - Bio: Backend Developer
 - Affiliation : College of engineering Trivandrum
 - GitHub: [Sreejith2](https://github.com/Sreejith2)
