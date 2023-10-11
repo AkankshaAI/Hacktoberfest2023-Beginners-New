@@ -87,7 +87,7 @@
 
 - Place: Delhi, India
 - Bio: Frontend Developer, ML enthusiast, avid reader 
-- Affiliation : India Gandhi Delhi Technical University for Women
+- Affiliation : Indira Gandhi Delhi Technical University for Women
 - GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
 =======
 #### Name: [Vivek Chatterjee](https://github.com/VivekChatterjee)
@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Sreejith P](https://www.linkedin.com/in/sreejith-p10)
+
+- Place: Kerala, India
+- Bio: Backend Developer
+- Affiliation : College of engineering Trivandrum
+- GitHub: [Sreejith2](https://github.com/Sreejith2)
