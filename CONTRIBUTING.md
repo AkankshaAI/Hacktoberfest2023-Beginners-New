@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Yuvraj Singh](https://github.com/yuvraj-0777)
+
+- Place: Ghaziabad, India
+- Bio: Full Stack Developer
+- GitHub: [yuvraj-0777](https://github.com/yuvraj-0777)
