@@ -1,31 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Count-Down</title>
-    <link rel="stylesheet" href="styles.css">
-    
-</head>
-<body>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
     <div class="main">
-        <div class="overlay">
-            <div class="title">
-                <h2>Hurry Up!! You are missing it...</h2>
-                <h3>Last date to Apply</h3>
-                <h3 id="end-date">31 October 2023 11:59PM</h3>
-            </div>
-            <div class="col">
-                <div><input type="text" value="0" readonly><br><label for="">Days</label></div>
-                <div><input type="text" value="0"readonly><br><label for="">Hours</label></div>
-                <div><input type="text" value="0"readonly><br><label for="">Minutes</label></div>
-                <div><input type="text" value="0"readonly><br><label for="">Seconds</label></div>
-                  
-               </div>
+      <div class="overlay">
+        <div class="title">
+          <h2>Hurry Up!! You are missing it...</h2>
+          <h3>Last date to Apply</h3>
+          <h3 id="end-date">31 October 2023 11:59PM</h3>
         </div>
-        
+        <div class="col">
+          <div class="elements">
+            <input type="text" value="0" readonly /><label for="">Days</label>
+          </div>
+          <div class="elements">
+            <input type="text" value="0" readonly /><label for="">Hours</label>
+          </div>
+          <div class="elements">
+            <input type="text" value="0" readonly /><label for=""
+              >Minutes</label
+            >
+          </div>
+          <div class="elements">
+            <input type="text" value="0" readonly /><label for=""
+              >Seconds</label
+            >
+          </div>
+        </div>
+      </div>
     </div>
 
     <script src="index.js"></script>
-</body>
+  </body>
 </html>
