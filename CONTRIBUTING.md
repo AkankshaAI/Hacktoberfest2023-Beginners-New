@@ -132,3 +132,11 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+
+#### Name: [Akshad watekar](https://www.linkedin.com/in/akshad-watekar-878341208/)
+
+- Place: Pune, India
+- Bio: Software Engineer | full Stack Developer |
+- Affiliation : SPPU University
+- GitHub: [Akshad watekar](https://github.com/akshad36)
