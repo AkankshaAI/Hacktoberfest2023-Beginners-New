@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Shubhankar Ranjan](https://github.com/Shubhankar-Ranjan)
+
+- Place: Jaipur, Rajasthan, India
+- Bio: College Student who is willing to learn about development and open source.
+- GitHub: [Shubhankar-Ranjan](https://github.com/Shubhankar-Ranjan)
