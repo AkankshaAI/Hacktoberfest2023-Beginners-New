@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Arin Paliwal](https://www.linkedin.com/in/arin-paliwal)
+
+- Place: Kanpur, Uttar Pradesh, India
+- Bio: Full Stack Developer
+- GitHub: [Arin Paliwal](https://www.linkedin.com/in/arin-paliwal)
