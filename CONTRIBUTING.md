@@ -133,7 +133,7 @@
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
 
-- #### Name: [Sayan Biswas](https://www.linkedin.com/in/sbiswas001)
+#### Name: [Sayan Biswas](https://www.linkedin.com/in/sbiswas001)
 
 - Place: Kolkata, India
 - Bio: Computer Science Student | Full Stack Developer
