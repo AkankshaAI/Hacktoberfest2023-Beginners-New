@@ -132,3 +132,8 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+#### Name: [Uttkarsh kumar](https://github.com/UTTKARSH-KUMAR)
+- Place: Roorkee, Uttarakhand, INDIA
+- Bio: Frontend Developer, Blockchain Developer.
+- Affiliation: COER University.
+- GitHub:[Uttkarsh kumar](https://github.com/UTTKARSH-KUMAR)
