@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+- 
+#### Name: [Yogesh Jadhav](https://www.linkedin.com/in/jadhavyogcool)
+
+- Place: India, mumbai
+- Bio: Professor
+- Affiliation : Nmims University
+- GitHub: [Yogesh Jadhav](https://github.com/jadhavyogcool)
