@@ -126,6 +126,13 @@
 - Affiliation - Great Learning, Problem solver.
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
 
+### Name: [Vaibhav](https://github.com/Vaibhav1808)
+
+- Place: Chandigarh.
+- Bio: Data Analyst
+- Affiliation - Great Learning, Problem solver.
+- GitHub: [Sahil Rajput](https://github.com/Vaibhav1808)
+
 #### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan)
 
 - Place: Pakistan, Islamabad
