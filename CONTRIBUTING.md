@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Raunak Mishra](https://github.com/Raunakkumarr/)
+
+- Place: Kathmandu, Bagmati, Nepal
+- Bio: First year Electrical Engineering student interested in both software and hardware
+- GitHub: [Raunakkumarr](https://github.com/Raunakkumarr/)
