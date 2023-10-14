@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Faheem](https://github.com/Faheem219)
+
+- Place: Pune, India
+- Bio: Passionate CSE Student
+- GitHub: [Faheem](https://github.com/Faheem219)
