@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Arun Kumar](https://www.linkedin.com/in/arun-kumar-58b963253)
+
+- Place: India, Varanasi
+- Bio: Student @IITBHU, Web Developer, Open Source Contrbutor
+- Affiliation : Indian Institute of Technology BHU(varansi) 
+- GitHub: [arunks2003](https://github.com/arunks2003)
