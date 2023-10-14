@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Ketan Jain](https://github.com/ketanjain113)
+
+- Place: Madhya Pradesh,India
+- Bio: 1st Year CSE Student
+- Affiliation : Shri vaishnav Vidhyapeeth Vishwavidyalaya
+- GitHub: [ketanjain113](https://github.com/ketanjain113)
