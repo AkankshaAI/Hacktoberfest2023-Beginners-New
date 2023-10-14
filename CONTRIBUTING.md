@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Ikechukwu Kalu](https://github.com/ikechukwu750)
+
+- Place: Umuahia, Abia State, Nigeria
+- Bio: Computer Science Student | Web Developer
+- GitHub: [Ikechukwu Kalu](https://github.com/ikechukwu750)
