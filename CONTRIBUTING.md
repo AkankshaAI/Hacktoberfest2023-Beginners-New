@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Aditya](https://github.com/AdityaKrSingh26)
+
+- Place: MP , India
+- Bio: | Graphic designer | MERN Stack Developer |
+- GitHub: [AdityaKrSingh26](https://github.com/AdityaKrSingh26)
