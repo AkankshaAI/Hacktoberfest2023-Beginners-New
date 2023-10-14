@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Harmanjot Kaur](https://github.com/harmanjot2002)
+
+- Place: Faridkot, Punjab, India
+- Bio: Aspiring Software Developer | Student of Chitkara University
+- GitHub: [Harmanjot Kaur](https://github.com/harmanjot2002)
