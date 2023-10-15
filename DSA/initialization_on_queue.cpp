@@ -3,7 +3,7 @@
 #include <cstdlib>
 using namespace std;
 #define M 5
-class corequeue
+class corequeue //node initialization
 {
 private:
     int rear = -1;

@@ -1,4 +1,4 @@
-// menu driven program on circular queue.
+// menu driven program on  circular queue.
 #include <iostream>
 #include <cstdlib>
 using namespace std;

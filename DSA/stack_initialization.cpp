@@ -6,7 +6,7 @@ int stack[N];
 class corestack
 {
 private:
-    int top = -1;//initialization of top
+    int top = -1;
 
 public:
     void push(int item)

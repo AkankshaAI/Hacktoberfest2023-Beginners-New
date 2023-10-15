@@ -3,7 +3,7 @@
 #include <cstring>
 #include <cstdlib>
 using namespace std;
-class n // node declaration 
+class n 
 { public:
    int p;
    int info;
