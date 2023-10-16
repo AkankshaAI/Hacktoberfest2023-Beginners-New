@@ -132,3 +132,12 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+- #### Name: [Parishi Bhange](https://www.linkedin.com/in/pub01122000)
+
+- Place: India
+- Bio: Software Engineer | MERN Stack Developer
+- Affiliation : DTU
+- GitHub: [Parishi Bhange](https://github.com/ParishiB)
+
+  
