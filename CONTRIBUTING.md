@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Barkha Gupta](https://github.com/barkha-gupta)
+
+- Place: Noida,India
+- Bio: Open Source Contributor , Full Stack Developer
+- Affiliation : Dropshop Network
+- GitHub: [barkha-gupta](https://github.com/barkha-gupta)
