@@ -1,3 +1,9 @@
+#### Name: [Xiaoren Chung](https://github.com/smoll-xiao)
+
+- Place: Bellevue, Washington, USA
+- Bio: Student at Newport Highschool, taking AP CSP
+- GitHub: [smoll-xiao](https://github.com/smoll-xiao)
+  
 #### Name: [Akanksha Rani](https://github.com/AkankshaAI)
 
 - Place: New Delhi,India
