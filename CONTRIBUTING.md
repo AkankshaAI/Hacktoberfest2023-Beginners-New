@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+### Name: [Anushka Singh](https://github.com/sahilrajput18)
+
+- Place: Patna, Bihar.
+- Bio: Web Developer| UI/UX Designer| Content writer.
+- Affiliation - SMVIT, Bengaluru.
+- GitHub: [Anushka-Singh1](https://github.com/Anushka-Singh1)
