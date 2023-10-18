@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Prince Gupta](https://github.com/pr1ncegupta)
+
+- Place: Bengaluru, Karnataka, India
+- Bio: A beginner developer and Professional Content Creator
+- GitHub: [Prince Gupta](https://github.com/pr1ncegupta)
