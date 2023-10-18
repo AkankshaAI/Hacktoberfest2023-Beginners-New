@@ -5,7 +5,6 @@
 - Affiliation : Indira Gandhi Delhi Technical University for Women
 - GitHub: [AkankshaAI](https://github.com/AkankshaAI)
 
-
 #### Name: [Max Muller](https://github.com/MMVonnSeek)
 
 - Place: Brasília,Brazil
@@ -26,6 +25,14 @@
 - Bio: Btech Cse student, community intern at Replit.
 - Affiliation: MLVTEC, RTU
 - GitHub: [Jatin](https://github.com/oyejateen)
+
+#### Raja: https://github.com/RAJA-2004
+
+- Place: Dehradun, Uttarakhand, India
+- Bio: CSE Undergrad, MERN Developer, Open Source Contributor
+- Affiliation : Graphic Era Hill University
+- GitHub: [Raja](https://github.com/RAJA-2004)
+
 
 #### Name: [Rishika Suhag](https://github.com/rishikasuhag)
 
