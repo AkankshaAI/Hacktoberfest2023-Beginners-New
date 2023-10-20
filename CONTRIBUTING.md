@@ -6,6 +6,13 @@
 - GitHub: [AkankshaAI](https://github.com/AkankshaAI)
 
 
+#### Name: [Pavan Emani](https://github.com/p1kalys)
+
+- Place:  Andhra Pradesh, India
+- Bio: Open Source Contributor, Web Developer
+- Affiliation: JNTU Anantapur
+- GitHub: [p1kalys](https://github.com/p1kalys)
+
 #### Name: [Max Muller](https://github.com/MMVonnSeek)
 
 - Place: Brasília,Brazil
@@ -81,7 +88,6 @@
 - GitHub:  [Sumit Br](https://github.com/SumitBr)
 
 
-<<<<<<< main
 
 #### Name: [Ishita Rakchhit](https://github.com/ishitarakchhit)
 
@@ -89,16 +95,6 @@
 - Bio: Frontend Developer, ML enthusiast, avid reader 
 - Affiliation : India Gandhi Delhi Technical University for Women
 - GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
-=======
-#### Name: [Vivek Chatterjee](https://github.com/VivekChatterjee)
-- Place: Jamshedpur, Jharkhand, India
-- Bio: Full Stack Developer, Open Source Contributor, Love Chess
-- Affiliation : Lovely Professional University, Punjab
-- GitHub: [VivekChatterjee](https://github.com/VivekChatterjee)
-
-
-
->>>>>>> main
 #### Name: [Aditi](https://github.com/aditi5926)
 
 - Place: Delhi, India
