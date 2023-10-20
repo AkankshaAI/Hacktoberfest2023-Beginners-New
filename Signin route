@@ -1,0 +1,38 @@
+router.post('/signin', async(req,res) => {
+    try {
+        const {email, password} = req.body;
+
+        //validation
+        if(!email || !password) {
+            return res.status(422).json({error: 'Please Fill All The Fields Properly'})
+        }
+        //check email and password match with our existing db
+        const userLogin = await User.findOne({email: email});
+
+        if(userLogin) {
+            const isMatch = bcrypt.compare(password, userLogin.password);
+            const token = await userLogin.generateAuthToken();
+            // console.log(token);
+            //store jwt in cookie
+            
+            //res.cookie("cookieName", dataThatWeNeedToStore)
+            res.cookie("jwtoken", token,{
+                expires : new Date(Date.now() + 25892000000),
+                httpOnly : true
+            });
+
+            if (!isMatch){
+                res.status(400).json({error: "Invalid Password"});
+            }
+            else{
+                res.status(200).json({message: "user signin successfully"});
+            }
+        }
+        else{
+            res.status(400).json({error: "Invalid email"});
+        }
+        
+    } catch (error) {
+        console.log(`${error}`)
+    }
+});
