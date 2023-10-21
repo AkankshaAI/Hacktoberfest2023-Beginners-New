@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+### Name: [Akshata P Malghan](https://www.linkedin.com/in/akshata-p-malghan-058113207)
+
+- Place: Bengaluru, Karnataka.
+- Bio: Web Developer, java
+- Affiliation - GSoC 2022, Problem solver.
+- GitHub: [Akshata P Malghan](https://github.com/Akshatapm)
