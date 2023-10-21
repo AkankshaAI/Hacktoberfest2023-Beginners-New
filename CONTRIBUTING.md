@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+- #### Name: [Rashmi Gupta](https://www.linkedin.com/in/rashmi-gupta30b)
+
+- Place: Delhi, India
+- Bio: Engineering Student 
+- Affiliation: National Institute of Technology, Durgapur
+- GitHub: [Rashmi Gupta](https://github.com/rashmi-dgp)
