@@ -25,9 +25,20 @@
 }
 .title{
     margin-top: 10px;
-    color:aliceblue;
+    color: aliceblue;
     text-align: center;
     font-size: 2.5rem;
+    padding: 10px; 
+    border-radius: 5px; 
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); 
+    font-family: Arial, sans-serif; 
+    letter-spacing: 1px; 
+    text-transform: uppercase; 
+    transition: background-color 0.3s, color 0.3s; 
+}
+
+.title:hover {
+    color: rgb(236, 24, 13); 
 }
 .col{
     width: 1000px;
