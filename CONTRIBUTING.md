@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Prakhar Bhatnagar](https://github.com/prakharbhatnagar20)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio: Android Developer
+- GitHub: [Prakhar Bhatnagar](https://github.com/prakharbhatnagar20)
