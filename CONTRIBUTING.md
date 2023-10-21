@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Chandan Arya](https://www.linkedin.com/in/chandan-chandan-51bb061a1/)
+
+- Place: New Delhi, BHARAT
+- Bio: MLOPs | Macine Learning Developer | Executive Head @AimL Society
+- Affiliation : Netaji Subhas University of Technology
+- GitHub: [Chandan Arya](https://github.com/alpha2lucifer)
