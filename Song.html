@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style> 
+    body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.player {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+audio {
+    width: 100%;
+}
+    
+  
+  </style>
+
+  <script>
+const audio = document.getElementById("audio");
+const songList = document.querySelectorAll("ul li a");
+
+songList.forEach((song, index) => {
+    song.addEventListener("click", function (event) {
+        event.preventDefault();
+        const songSrc = song.getAttribute("href");
+        audio.src = songSrc;
+        audio.load();
+        audio.play();
+    });
+});
+  
+    
+  </script>
+    
+</head>
+<body>
+    <h1>Song Player</h1>
+    <div class="player">
+        <h2>Songs</h2>
+        <ul>
+            <li><a href="kon_tujhe.mp3">Kon Tujhe Yu Pyaar Karega</a></li>
+            <li><a href="aye_mere_watan.mp3">Aye Mere Watan Ke Logo</a></li>
+        </ul>
+        <audio id="audio" controls>
+            <source src="kon_tujhe.mp3" type="audio/mpeg">
+        </audio>
+    </div>
+    
+</body>
+</html>
