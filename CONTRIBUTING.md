@@ -132,3 +132,13 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+
+>>>>>>> main
+
+#### Name: [Aman kumar verma](https://www.linkedin.com/in/hecker8055)
+
+- Place: India,Delhi
+- Bio: Full stack developer || competitive programmer
+- Affiliation : AKGEC
+- GitHub: [Aman kumar verma](https://github.com/hecker8055)
