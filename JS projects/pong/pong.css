@@ -1,0 +1,112 @@
+* { 
+	margin: 0; 
+	padding: 0; 
+	box-sizing: border-box; 
+} 
+
+body { 
+	height: 100vh; 
+	width: 100vw; 
+	background-image: linear-gradient( 
+			to top, #ffda77, #ffa45b); 
+	display: flex; 
+	justify-content: center; 
+	align-items: center; 
+} 
+
+.board { 
+	height: 85vh; 
+	width: 80vw; 
+	background-image: linear-gradient( 
+			to right, #5c6e91, #839b97); 
+	border-radius: 14px; 
+} 
+
+.ball { 
+	height: 30px; 
+	width: 30px; 
+	border-radius: 50%; 
+	position: fixed; 
+	top: calc(50% - 15px); 
+	left: calc(50% - 15px); 
+} 
+
+.ball_effect { 
+	height: 100%; 
+	width: 100%; 
+	border-radius: 100px; 
+	animation: spinBall 0.1s linear infinite; 
+	box-shadow: inset 0 0 18px #fff, 
+		inset 6px 0 18px violet, 
+		inset -6px 0 18px #0ff, 
+		inset 6px 0 30px violet, 
+		inset -6px 0 30px #0ff, 
+		0 0 18px #fff, -4px 0 18px
+		violet, 4px 0 18px #0ff; 
+} 
+
+@keyframes spinBall { 
+	100% { 
+		-webkit-transform: rotate(360deg); 
+		transform: rotate(360deg); 
+	} 
+} 
+
+.paddle { 
+	height: 100px; 
+	width: 18px; 
+	border-radius: 50%; 
+	position: fixed; 
+} 
+
+.paddle_1 { 
+	top: calc(7.5vh + 55px); 
+	left: calc(10vw + 30px); 
+	box-shadow: inset 0 0 18px #fff, 
+		inset -6px 0 18px #f3bad6, 
+		inset 6px 0 18px #0ff, 
+		inset -6px 0 30px #f3bad6, 
+		inset 6px 0 30px #0ff, 
+		0 0 18px #fff, 4px 0 18px
+		#f3bad6, -4px 0 18px #0ff; 
+} 
+
+.paddle_2 { 
+	top: calc(85vh + 7.5vh - 100px - 55px); 
+	right: calc(10vw + 30px); 
+	box-shadow: inset 0 0 18px #fff, 
+		inset 6px 0 18px #f3bad6, 
+		inset -6px 0 18px #0ff, 
+		inset 6px 0 30px #f3bad6, 
+		inset -6px 0 30px #0ff, 
+		0 0 18px #fff, -4px 0 18px
+		#f3bad6, 4px 0 18px #0ff; 
+} 
+
+.player_1_score { 
+	height: 50px; 
+	width: 50px; 
+	color: chartreuse; 
+	position: fixed; 
+	left: 30vw; 
+	margin-top: 30px; 
+} 
+
+.player_2_score { 
+	height: 50px; 
+	width: 50px; 
+	color: chartreuse; 
+	position: fixed; 
+	left: 70vw; 
+	margin-top: 30px; 
+} 
+
+.message { 
+	position: fixed; 
+	/* color: #48426d; */
+	height: 10vh; 
+	width: 30vw; 
+	color: #c9cbff; 
+	left: 38vw; 
+	margin: 30px auto auto auto; 
+} 
