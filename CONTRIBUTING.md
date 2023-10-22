@@ -5,6 +5,7 @@
 - Affiliation : Indira Gandhi Delhi Technical University for Women
 - GitHub: [AkankshaAI](https://github.com/AkankshaAI)
 
+-
 #### Name: [Max Muller](https://github.com/MMVonnSeek)
 
 - Place: Brasília,Brazil
@@ -31,15 +32,15 @@
 - Place: New Delhi,India
 - Bio: Graphics and UI designer, content writer, AI/ML enthusiast.
 - Affiliation : Indira Gandhi Delhi Technical University for Women
-- # GitHub: [rishikasuhag](https://github.com/rishikasuhag)
+- GitHub: [rishikasuhag](https://github.com/rishikasuhag)
 
 #### Name: [Simran Verma](https://github.com/AkankshaAI)
 
 - Place: Varanasi, India
 - Bio: Coder, Frontend Developer
 - Affiliation : Kalinga Institute of Industrial Technology, Bhubaneswar
-- # GitHub: [Simranverma123](https://github.com/Simranverma123)
-  > > > > > > > main
+- GitHub: [Simranverma123](https://github.com/Simranverma123)
+
 
 #### Name: [Namya Jain](https://github.com/Namya13Jain)
 
@@ -48,8 +49,6 @@
 - Affiliation : Indira Gandhi Delhi Technical University for Women
 - GitHub: [Namya13Jain](https://github.com/Namya13Jain)
 
-> > > > > > > main
-
 #### Name: [aecuto](https://github.com/aecuto)
 
 - Place: Thailand
@@ -57,7 +56,6 @@
 - Affiliation : CNX University
 - GitHub: [aecuto](https://github.com/aecuto)
 
-> > > > > > > main
 
 #### Name: [Spandan Tripathy](https://github.com/CrypticRevenger)
 
@@ -87,7 +85,7 @@
 - Place: Delhi, India
 - Bio: Frontend Developer, ML enthusiast, avid reader
 - Affiliation : India Gandhi Delhi Technical University for Women
-- # GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
+- GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
 
 #### Name: [Vivek Chatterjee](https://github.com/VivekChatterjee)
 
@@ -96,17 +94,17 @@
 - Affiliation : Lovely Professional University, Punjab
 - GitHub: [VivekChatterjee](https://github.com/VivekChatterjee)
 
-> > > > > > > main
+
 
 #### Name: [Aditi](https://github.com/aditi5926)
 
 - Place: Delhi, India
 - Bio: Passionate WebDeveloper
 - Affiliation : NSUT
-- # Github: [Aditi](https://github.com/aditi5926)
-  > > > > > > > main
+- Github: [Aditi](https://github.com/aditi5926)
+  
 
-> > > > > > > main
+
 
 ### Name: [Dhananjay Goyal](https://github.com/DhananjayGoyalGL)
 
@@ -115,7 +113,7 @@
 - Affiliation - Great Learning
 - GitHub: [CrypticRevenger](https://github.com/DhananjayGoyalGL)
 
-> > > > > > > main
+
 
 ### Name: [Sahil Singh](https://github.com/sahilrajput18)
 
