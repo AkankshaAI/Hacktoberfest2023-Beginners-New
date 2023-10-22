@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Alex Kh](https://github.com/alex-kh465)
+
+- Place: Bangalore,India
+- Bio: BSc Physics and Computer Science student
+- Affiliation : Kristu Jayanti College
+- GitHub: [Alex Kh](https://github.com/alex-kh465)
