@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Nikunj Khinchi](https://www.linkedin.com/in/nikunj-khinchi-b59971230/)
+
+- Place: Ahmedabad, Gujarat
+- Bio: MERN Stack Developer | Django Developer
+- Affiliation : Indian Institute of Information Technology, SriCity
+- GitHub: [Nikunj Khinchi](https://github.com/Nikunj-Khinchi)
