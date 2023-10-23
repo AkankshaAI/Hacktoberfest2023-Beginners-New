@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Pawani Imalsha](https://github.com/PawaniImalsha)
+
+- Place: Ambalantota,Sri Lanka
+- Bio: Software Engineer,Open Source Contributor , Full Stack developer
+- Affiliation : University of Colombo School of Computing
+- GitHub: [PawaniImalsha](https://github.com/PawaniImalsha)
