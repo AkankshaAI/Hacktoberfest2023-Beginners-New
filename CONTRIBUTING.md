@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Shreyan Shukla](https://www.linkedin.com/in/shreyan19)
+
+- Place: UP, India
+- Bio: Software Engineer | MERN Stack Developer 
+- Affiliation : AKTU
+- GitHub: [Shreyan Shukla](https://github.com/shreyan01)
