@@ -132,3 +132,11 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+
+### Name: [Himanshu Rawat](https://github.com/himanshu-rawat77)
+
+- Place: Delhi.
+- Bio: AI/ML
+- Affiliation - Jamia Hamdard.
+- GitHub: [Himanshu Rawat](https://github.com/himanshu-rawat77)
