@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rock Paper Scissors Project</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500;700;900&display=swap" rel="stylesheet"/>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="main-page">
+      <div class="score-board">
+        <ul class="game-name">
+          <li>ROCK</li>
+          <li>PAPER</li>
+          <li>SCISSORS</li>
+        </ul>
+        <div class="score-container">
+          <div class="player-score-container">
+            <h2>PLAYER</h2>
+            <h2>SCORE</h2>
+            <h2 class="player-score">0</h2>
+          </div>
+          <div class="computer-score-container">
+            <h2>COMPUTER</h2>
+            <h2>SCORE</h2>
+            <h2 class="computer-score">0</h2>
+          </div>
+        </div>
+      </div>
+      <div class="options">
+        <div class="group-1">
+          <button class="option">
+            <img class="icons" id="Rock" src="./assets/Rock.svg" alt="Rock" />
+          </button>
+          <img class="line-1" src="./assets/Line 1.svg" alt="line-1" />
+          <button class="option">
+            <img
+              class="icons"
+              id="Scissors"
+              src="./assets/Scissors.svg"
+              alt="Scissors"
+            />
+          </button>
+        </div>
+        <div class="group-2">
+          <img class="line-3" src="./assets/Line 3.svg" alt="line-3" />
+          <img class="line-2" src="./assets/Line 2.svg" alt="line-2" />
+        </div>
+        <div class="group-3">
+          <button class="option">
+            <img
+              class="icons"
+              id="Paper"
+              src="./assets/Paper.svg"
+              alt="Paper"
+            />
+          </button>
+        </div>
+      </div>
+      <!-- RESULTS -->
+      <div class="result">
+        <div class="result-container">
+          <div class="player-picked-container">
+            <p>You picked</p>
+            <img class="player-picked" src="" alt="player-picked" />
+          </div>
+          <div class="result-box">
+            <h3 class="final-judgement"></h3>
+            <h3 class="game-result"></h3>
+            <button class="play-again"></button>
+          </div>
+          <div class="computer-picked-container">
+            <p>pc picked</p>
+            <img class="computer-picked" src="" alt="computer-picked" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="hurray-page">
+      <div class="hurray-container">
+        <img class="hurray" src="./assets/hurray.svg" alt="hurray" />
+        <h3>HURRAY</h3>
+        <p>YOU WON THE GAME</p>
+        <button class="restart">PLAY AGAIN</button>
+      </div>
+    </div>
+
+
+    <div class="buttons">
+      <button class="next">NEXT</button>
+      <button class="rules">RULES</button>
+      <div class="rule-box">
+        <div class="rules-container">
+          <div class="cross">X</div>
+          <h3>Game Rules</h3>
+          <div>
+            <div class="rule">
+              <p>🟨</p>
+              Rock beats scissors, scissors beat paper, and paper beats rock.
+            </div>
+            <div class="rule">
+              <p>🟨</p>
+              Agree ahead of time whether you'll count off "rock, paper,
+              scissors, shoot" or just “rock, paper, scissors.”
+            </div>
+            <div class="rule">
+              <p>🟨</p>
+              Use rock, paper, scissors to settle minor decisions or simply play
+              to pass the time
+            </div>
+            <div class="rule">
+              <p>🟨</p>
+              If both players lay down the same hand, each player lays down
+              another hand
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="./script.js"></script>
+</html>
