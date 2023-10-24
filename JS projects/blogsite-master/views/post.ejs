@@ -1,0 +1,15 @@
+
+<%- include("partials/header"); -%>
+
+
+    <h1><%=title%></h1>
+    <p><%=content%></p>
+    <br>
+    <br>
+    <form action="/posts/<%=postId%>" method="post">
+        <button type="submit" class="btn btn-primary">Want to delete this post.Click here to delete</button>
+    </form>
+    <br>
+    <a href="/posts/<%= postId %>/edit" class="btn btn-primary">Edit</a>
+
+<%- include("partials/footer"); -%>
