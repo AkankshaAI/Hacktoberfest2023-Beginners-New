@@ -9,7 +9,8 @@
 .main{
     width: 100%;
     height: 100vh;
-    background: url('images/background.jpg') center center;
+    background-image: url("/images/photo-1501139083538-0139583c060f.avif");
+    background-position: center;
     background-size: cover;
 }
 .overlay{
