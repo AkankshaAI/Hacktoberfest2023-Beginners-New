@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="253.232 102.233 128.672 126.91" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <filter id="filter0_i_1486_12" x="28" y="26" width="113" height="110" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feMorphology radius="1" operator="erode" in="SourceAlpha" result="effect1_innerShadow_1486_12"/>
+      <feOffset dx="3"/>
+      <feGaussianBlur stdDeviation="10.5"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+      <feBlend mode="normal" in2="shape" result="effect1_innerShadow_1486_12"/>
+    </filter>
+    <filter id="filter0_i_1486_9" x="28" y="26" width="113" height="110" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feMorphology radius="1" operator="erode" in="SourceAlpha" result="effect1_innerShadow_1486_9"/>
+      <feOffset dx="3"/>
+      <feGaussianBlur stdDeviation="10.5"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+      <feBlend mode="normal" in2="shape" result="effect1_innerShadow_1486_9"/>
+    </filter>
+    <filter id="filter1_d_1486_9" x="0" y="0" width="164" height="164" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dx="-1" dy="1"/>
+      <feGaussianBlur stdDeviation="5.5"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1486_9"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1486_9" result="shape"/>
+    </filter>
+    <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1" patternTransform="matrix(1, 0, 0, 1, -0.000279, -0.000262)">
+      <image width="64" height="64" transform="matrix(0.015625, 0, 0, 0.015625, 0, 0)" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+  </defs>
+  <g filter="url(#filter0_i_1486_12)" transform="matrix(1, 0, 0, 1, 161.71213009524536, 135.50998126730292)">
+    <circle cx="83" cy="81" r="55" style="fill: rgba(255, 255, 255, 0);"/>
+  </g>
+  <g filter="url(#filter0_i_1486_9)" transform="matrix(0.8730160593986511, 0, 0, 0.8730160593986511, 238.28236744228542, 89.02954234226854)">
+    <circle cx="83" cy="81" r="55" fill="white"/>
+  </g>
+  <g filter="url(#filter1_d_1486_9)" transform="matrix(0.8730160593986511, 0, 0, 0.8730160593986511, 245.33293517430025, 94.90499256409691)">
+    <circle cx="83" cy="81" r="63" stroke="#FFA943" stroke-width="16" shape-rendering="crispEdges" style="fill: rgb(255, 255, 255);"/>
+  </g>
+  <rect width="72" height="72" fill="url(#pattern0)" x="282.743" y="130.569"/>
+</svg>

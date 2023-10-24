@@ -1,0 +1,276 @@
+:root {
+  --shade-1: #1da82b;
+  --shade-2: #1da82b90;
+  --shade-3: #2e9a2563;
+  --dark-green: #004429;
+  --gray: #656565;
+  --black: #252525;
+  --main-bg: #8cc461;
+  --white: #fff;
+}
+
+body {
+  background: var(--main-bg);
+  width: 100%;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 0;
+}
+
+.main-page {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+/* SCORE BOARD */
+.game-name {
+  width: 40%;
+}
+.game-name > li {
+  list-style: none;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--white);
+}
+.score-board {
+  width: 65%;
+  margin: 3rem 15rem;
+  display: flex;
+  padding: 0.5rem 1rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  border: 2px solid var(--white);
+  border-radius: 9px;
+}
+.score-container {
+  display: flex;
+  gap: 2rem;
+  width: 60%;
+}
+.player-score-container,
+.computer-score-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: var(--white);
+  color: var(--gray);
+  width: 40%;
+  padding: 4px;
+  border-radius: 9px;
+  text-align: center;
+  font-size: 1.06rem;
+  font-weight: 500;
+}
+
+.player-score,
+.computer-score {
+  font-size: 4.35rem !important;
+  font-weight: 700 !important;
+  color: var(--black) !important;
+}
+
+/* OPTIONS */
+.option {
+  background: transparent;
+  border: none;
+  z-index: 10;
+}
+.icons {
+  width: 150px;
+  background: transparent;
+  cursor: pointer;
+}
+
+.group-1,
+.group-2,
+.group-3 {
+  display: flex;
+  justify-content: center;
+}
+.group-2 {
+  gap: 80px;
+}
+.group-3 {
+  margin-top: -40px;
+}
+.line-1 {
+  width: 150px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+.line-2,
+.line-3 {
+  width: 80px;
+  margin-top: -40px;
+}
+/* RESULTS */
+.player-picked,
+.computer-picked {
+  width: 150px;
+  margin-top: 2rem;
+}
+.player-picked-container,
+.computer-picked-container {
+  text-align: center;
+  color: var(--white);
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.result {
+  display: none;
+}
+.result-container {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+.result-box {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.final-judgement {
+  font-size: 2.5rem;
+  color: var(--white);
+  font-weight: 800;
+}
+.game-result {
+  font-size: 1.56rem;
+  color: var(--white);
+  font-weight: 800;
+}
+/* BUTTONS */
+.next {
+  display: none;
+}
+.play-again,
+.next,
+.rules,
+.restart {
+  padding: 0.75rem 2rem;
+  border-radius: 9px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.play-again,
+.restart {
+  border: none;
+  color: var(--gray);
+}
+.buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: end;
+  margin-right: 1rem;
+  position: absolute;
+  bottom: 40px;
+  right: 20px;
+}
+.next,.rules {
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+}
+/* HURRAY PAGE */
+.hurray-page {
+  display: none;
+  width: 100%;
+}
+.hurray-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hurray {
+  width: 50%;
+}
+.hurray-container > h3,
+.hurray-container > p {
+  font-weight: 600;
+  color: var(--white);
+}
+.hurray-container > h3 {
+  font-size: 5.6rem;
+}
+.hurray-container > p {
+  font-size: 2.5rem;
+}
+
+/* RULE BOX */
+.rule-box {
+  position: absolute;
+  bottom: 5rem;
+  display: none;
+  z-index: 20;
+}
+.rules-container {
+  width: 17.3rem;
+  color: var(--white);
+  background-color: var(--dark-green);
+  border: 7px solid white;
+  position: relative;
+  border-radius: 13px;
+}
+.rules-container > h3 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 1rem 0;
+  padding: 10px 0;
+}
+.rule {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 15px;
+  margin-right: 10px;
+}
+.rule > p {
+  font-size: 8px;
+  padding: 0 10px;
+}
+.cross {
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  font-size: 2.5rem;
+  height: 50px;
+  background-color: red;
+  text-align: center;
+  border-radius: 100%;
+  border: 5px solid var(--white);
+  bottom: 17rem;
+  right: -30px;
+  cursor: pointer;
+}
+
+/* WINNER CLASS */
+.green-bg {
+  border: none;
+  box-shadow:
+    0 0 0 10px var(--shade-1) inset,
+    0 0 0 10px var(--shade-1),
+    0 0 0 25px var(--shade-2),
+    0 0 0 40px var(--shade-3);
+  border-radius: 50%;
+}
