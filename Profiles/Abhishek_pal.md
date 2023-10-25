@@ -17,4 +17,4 @@ Punjabi University, patiala
 
 ### Profile Link
 
-[Abhishek Pal](https://github.com/in/itxabhishekpal)
+[Abhishek Pal](https://github.com/itxabhishekpal)
