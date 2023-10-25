@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Abhishek Pal](https://www.linkedin.com/in/itxabhishekpal)
+
+- Place: Chandigarh
+- Bio: Frontend Developer | Reactjs Developer
+- Affiliation : Punjabi University, Patiala
+- GitHub: [Abhishek Pal](https://github.com/itxabhishekpal)
