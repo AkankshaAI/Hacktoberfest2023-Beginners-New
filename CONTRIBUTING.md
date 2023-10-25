@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Vanshaj Bajaj](https://github.com/VANSHAJB10)
+
+- Place: Jalandhar, Punjab, India
+- Bio: Frontend Developer, Graphic Designer, Web Designer
+- Affiliation: Lovely Professional University, Punjab
+- GitHub: [VANSHAJB10](https://github.com/VANSHAJB10)
