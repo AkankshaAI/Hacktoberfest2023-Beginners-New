@@ -3,29 +3,106 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Count-Down</title>
+    <title>Countdown Timer</title>
     <link rel="stylesheet" href="styles.css">
-    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .main {
+            background: linear-gradient(to bottom, #3498db, #2980b9);
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .title h2 {
+            font-size: 24px;
+        }
+
+        .title h3 {
+            font-size: 20px;
+            margin-top: 10px;
+        }
+
+        #end-date {
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .col {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+
+        .col div {
+            text-align: center;
+        }
+
+        input[type="text"] {
+            background-color: transparent;
+            border: none;
+            color: #fff;
+            font-size: 36px;
+            font-weight: bold;
+            width: 60px;
+        }
+
+        label {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .overlay {
+            background: rgba(0, 0, 0, 0.4);
+            border-radius: 10px;
+            padding: 20px;
+        }
+    </style>
 </head>
 <body>
     <div class="main">
         <div class="overlay">
             <div class="title">
                 <h2>Hurry Up!! You are missing it...</h2>
-                <h3>Last date to Apply</h3>
-                <h3 id="end-date">31 October 2023 11:59PM</h3>
+                <h3>Last chance to apply</h3>
+                <h3 id="end-date">October 31, 2023, 11:59 PM</h3>
             </div>
             <div class="col">
-                <div><input type="text" value="0" readonly><br><label for="">Days</label></div>
-                <div><input type="text" value="0"readonly><br><label for="">Hours</label></div>
-                <div><input type="text" value="0"readonly><br><label for="">Minutes</label></div>
-                <div><input type="text" value="0"readonly><br><label for="">Seconds</label></div>
-                  
-               </div>
+                <div>
+                    <input type="text" value="0" readonly>
+                    <br>
+                    <label>Days</label>
+                </div>
+                <div>
+                    <input type="text" value="0" readonly>
+                    <br>
+                    <label>Hours</label>
+                </div>
+                <div>
+                    <input type="text" value="0" readonly>
+                    <br>
+                    <label>Minutes</label>
+                </div>
+                <div>
+                    <input type="text" value="0" readonly>
+                    <br>
+                    <label>Seconds</label>
+                </div>
+            </div>
         </div>
-        
     </div>
-
     <script src="index.js"></script>
 </body>
 </html>
