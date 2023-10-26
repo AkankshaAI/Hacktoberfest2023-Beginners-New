@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Varun Shah](https://github.com/varunlmxd)
+
+- Place: Hyderabad,Telangana,India
+- Bio: Open Source Contributor, Web Developer 
+- GitHub: [varunlmxd](https://github.com/varunlmxd)
