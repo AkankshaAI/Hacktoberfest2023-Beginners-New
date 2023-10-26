@@ -132,3 +132,11 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+- 
+#### Name: [Aryan Garg](https://github.com/jsrjhbaryan959)
+
+- Place: Ghaziabad, India
+- Bio: Pre Final year student, learning new things every day
+- Affiliation : Dr. APJ Abdul Kalam Technical University
+- GitHub: [Aryan Garg](https://github.com/jsrjhbaryan959)
+=======
