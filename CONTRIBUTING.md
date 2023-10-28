@@ -132,3 +132,11 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+
+#### Name: [Palakpreet Kaur](https://github.com/palakpreet24)
+
+- Place: Noida, Uttar Pradesh
+- Bio: Software Engineer 
+- Affiliation : AKTU
+- GitHub: [Palakpreet Kaur](https://github.com/palakpreet24)
