@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Yash Pratap Sisodia](https://github.com/Yashhuc)
+
+- Place: Srinagar, Uttarakhand, India
+- Bio: Student
+- Affiliation : NITUK
+- GitHub: [Yashhuc](https://github.com/Yashhuc)
