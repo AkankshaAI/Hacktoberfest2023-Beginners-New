@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Roboto';
+    font-size:xx-large;
+}
+body{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+.grid-container{
+    background-color: #585858;
+    height: 700px;
+    width: 500px;
+    display:grid;
+   /* grid-template-rows:130px 130px 130px ;
+    grid-template-columns: 130px 130px 130px; */
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    row-gap: 10px;
+    column-gap:10px;
+   
+    border: 4px solid black;
+    margin: 50px auto;
+    padding: 10px;
+}
+
+.grid-container >button{
+    background-color: #6CB4EE;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.grid-container >button:hover{
+    transform: scale(1.1);
+    background-color: white;
+}
+.output{
+    grid-column-start: 2;
+    grid-column-end: 5;
+    background-color: white;
+    border-radius: 0px;
+    border: 4px solid black;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 10px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.output .previous-operand{
+    font-size: 1.2rem;
+    
+}
+
+.output .current-operand{
+    font-size: 1.4rem;
+
+    
+}

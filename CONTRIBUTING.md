@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Dhruv Naik](https://github.com/droovian)
+
+- Place: Panjim, Goa, India
+- Bio: Full stack developer
+- GitHub: [Dhruv Naik](https://github.com/droovian)
