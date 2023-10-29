@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Talha Satti](https://www.linkedin.com/in/abrehan)
+
+- Place: Pakistan, Islamabad
+- Bio: BS in Computer Science | Web Developer | Cyber Security Enthusiast
+- Affiliation : Bahria University
+- GitHub: [Talha Satti](https://github.com/talhaStti)
