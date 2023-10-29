@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Maseera Fatima](https://github.com/mfatima05)
+
+- Place: New Delhi, India 
+- Bio: Web Developer , Open Source Contributor 
+- Affiliation : Jamia Hamdard, Delhi
+- GitHub: [Maseera Fatima](https://github.com/mfatima05)
