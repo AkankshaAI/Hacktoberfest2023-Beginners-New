@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Jay Gondaliya](https://www.linkedin.com/in/jay-gondaliya-b8902326b/)
+
+- Place: Pune , Maharashtra
+- Bio: Beginner Web Developer
+- Affiliation : Great Learning
+- GitHub: [Jay Gondaliya](https://github.com/jayg2309)
