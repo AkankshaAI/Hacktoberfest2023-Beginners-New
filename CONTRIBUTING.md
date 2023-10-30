@@ -126,6 +126,14 @@
 - Affiliation - Great Learning, Problem solver.
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
 
+- >>>>>>> main
+#### Name: [NIRMAL M](https://github.com/NIRMAL1508)
+
+- Place: Udumalpet,Tamilnadu,India
+- Bio: Web developer, Open Source Contrbutor, Machine Learning
+- Affiliation - PSG College Of Technology
+- GitHub:  [NIRMAL M ](https://github.com/NIRMAL1508)
+
 #### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan)
 
 - Place: Pakistan, Islamabad
