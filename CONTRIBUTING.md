@@ -1,3 +1,9 @@
+### Name: [Conrad P Bugingo M] (https://github.com/G-rizz)
+
+- Place: Kampala, Uganda
+- Bio: Web developer, New Open Source Contributor
+- Affiliation: Currently unattached (transitioning into tech)
+- Github: [G-rizz](https://github.com/G-rizz)
 #### Name: [Akanksha Rani](https://github.com/AkankshaAI)
 
 - Place: New Delhi,India
