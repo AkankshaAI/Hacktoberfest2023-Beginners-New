@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Sumit Awate](https://www.linkedin.com/in/SumitAwate)
+
+- Place: Pune, India
+- Bio: Cloud Consultant | AWS , GCP , Nodejs | Infosys
+- Affiliation : Great Learning, Problem solver
+- GitHub: [Sumit Awate](https://github.com/sumitawate2312)
