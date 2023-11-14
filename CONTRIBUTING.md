@@ -5,7 +5,6 @@
 - Affiliation : Indira Gandhi Delhi Technical University for Women
 - GitHub: [AkankshaAI](https://github.com/AkankshaAI)
 
-
 #### Name: [Max Muller](https://github.com/MMVonnSeek)
 
 - Place: Brasília,Brazil
@@ -32,25 +31,25 @@
 - Place: New Delhi,India
 - Bio: Graphics and UI designer, content writer, AI/ML enthusiast.
 - Affiliation : Indira Gandhi Delhi Technical University for Women
-- GitHub: [rishikasuhag](https://github.com/rishikasuhag)
-=======
+- # GitHub: [rishikasuhag](https://github.com/rishikasuhag)
+
 #### Name: [Simran Verma](https://github.com/AkankshaAI)
 
 - Place: Varanasi, India
 - Bio: Coder, Frontend Developer
 - Affiliation : Kalinga Institute of Industrial Technology, Bhubaneswar
-- GitHub: [Simranverma123](https://github.com/Simranverma123)
-=======
->>>>>>> main
+- # GitHub: [Simranverma123](https://github.com/Simranverma123)
+  > > > > > > > main
 
 #### Name: [Namya Jain](https://github.com/Namya13Jain)
 
 - Place: New Delhi, India
 - Bio: Flutter Developer, Open Source Contributor,Learning Data Science
-- Affiliation : Indira Gandhi Delhi Technical University for Women 
+- Affiliation : Indira Gandhi Delhi Technical University for Women
 - GitHub: [Namya13Jain](https://github.com/Namya13Jain)
 
->>>>>>> main
+> > > > > > > main
+
 #### Name: [aecuto](https://github.com/aecuto)
 
 - Place: Thailand
@@ -58,57 +57,56 @@
 - Affiliation : CNX University
 - GitHub: [aecuto](https://github.com/aecuto)
 
->>>>>>> main
+> > > > > > > main
+
 #### Name: [Spandan Tripathy](https://github.com/CrypticRevenger)
 
 - Place: Berhampur,Odisha,India
 - Bio: Web developer, Open Source Contrbutor , Machine Learning
 - Affiliation - Vellore Institute Of Technology
-- GitHub:  [CrypticRevenger](https://github.com/CrypticRevenger)
+- GitHub: [CrypticRevenger](https://github.com/CrypticRevenger)
 
 #### Name: [Anusha Tomar](https://github.com/anushatomar13)
 
 - Place: New Delhi, India
 - Bio: Web developer, Open Source Contrbutor , Machine Learning
 - Affiliation - MSIT, New Delhi
-- GitHub:  [Anusha Tomar](https://github.com/anushatomar13)
+- GitHub: [Anusha Tomar](https://github.com/anushatomar13)
 
 #### Name: [Sumit Br](https://github.com/SumitBr)
 
 - Place: Dhaka, Bangladesh
-- Bio: Deep Learning, Machine Learning, Open Source Contrbutor 
+- Bio: Deep Learning, Machine Learning, Open Source Contrbutor
 - Affiliation - BRAC University
-- GitHub:  [Sumit Br](https://github.com/SumitBr)
-
+- GitHub: [Sumit Br](https://github.com/SumitBr)
 
 <<<<<<< main
 
 #### Name: [Ishita Rakchhit](https://github.com/ishitarakchhit)
 
 - Place: Delhi, India
-- Bio: Frontend Developer, ML enthusiast, avid reader 
+- Bio: Frontend Developer, ML enthusiast, avid reader
 - Affiliation : India Gandhi Delhi Technical University for Women
-- GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
-=======
+- # GitHub: [ishitarakchhit](https://github.com/ishitarakchhit)
+
 #### Name: [Vivek Chatterjee](https://github.com/VivekChatterjee)
+
 - Place: Jamshedpur, Jharkhand, India
 - Bio: Full Stack Developer, Open Source Contributor, Love Chess
 - Affiliation : Lovely Professional University, Punjab
 - GitHub: [VivekChatterjee](https://github.com/VivekChatterjee)
 
+> > > > > > > main
 
-
->>>>>>> main
 #### Name: [Aditi](https://github.com/aditi5926)
 
 - Place: Delhi, India
 - Bio: Passionate WebDeveloper
 - Affiliation : NSUT
-- Github: [Aditi](https://github.com/aditi5926)
-=======
->>>>>>> main
+- # Github: [Aditi](https://github.com/aditi5926)
+  > > > > > > > main
 
->>>>>>> main
+> > > > > > > main
 
 ### Name: [Dhananjay Goyal](https://github.com/DhananjayGoyalGL)
 
@@ -117,7 +115,7 @@
 - Affiliation - Great Learning
 - GitHub: [CrypticRevenger](https://github.com/DhananjayGoyalGL)
 
->>>>>>> main
+> > > > > > > main
 
 ### Name: [Sahil Singh](https://github.com/sahilrajput18)
 
@@ -132,3 +130,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Vandita](https://github.com/vanditakhare)
+
+- Place: Lucknow, India
+- Bio: Passionate Web developer
+- Affiliation : KNIT
+- GitHub: [vanditakhare](https://github.com/vanditakhare)
