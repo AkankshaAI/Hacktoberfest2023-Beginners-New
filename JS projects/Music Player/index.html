@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Music Player</h1>
+
+    <input type="file" id="fileInput" accept=".mp3" multiple>
+    
+    <div class="player-container">
+        <audio id="audioPlayer" controls></audio>
+        <div class="controls">
+            <button id="shuffleButton">Shuffle</button>
+            <input type="range" id="volumeControl" min="0" max="1" step="0.1" value="1">
+        </div>
+    </div>
+
+    <ul id="playlist" class="playlist"></ul>
+
+    <script src="script.js"></script>
+</body>
+</html>
