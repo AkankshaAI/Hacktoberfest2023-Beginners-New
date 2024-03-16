@@ -19,3 +19,24 @@ Desktop Assistant
 ### Profile Link
 
 [LoftyDroid](https://github.com/LoftyDroid)
+# Lordphick Ouma
+
+### Location
+
+Kenya
+
+### Academics
+
+Moi University
+
+### Interests
+
+Football, Chess
+
+### Development(Mention projects if any)
+
+Developer
+
+### Profile Link
+
+[LoftyDroid](https://github.com/oumalord)
