@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+#### Name: [Alex Lumumba](https://www.linkedin.com/in/lumumba-alex-ab73562b1)
+
+- Place: Kenya, Eldoret
+- Bio: Software Engineer
+- Affiliation : Moi University
+- GitHub: [Lumumba Alex](https://github.com/lumumba11)
