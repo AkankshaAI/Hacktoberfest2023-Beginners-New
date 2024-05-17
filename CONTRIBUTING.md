@@ -132,3 +132,11 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+
+#### Name: [Namirah Rasul](https://github.com/namirahrasul)
+
+- Place: Dhaka, Bangladesh
+- Bio: Aspiring Software Engineer | C++ | Java | Javascript
+- Affiliation : Islamic University of Technology
+- GitHub: [Namirah Rasul](https://github.com/namirahrasul)
