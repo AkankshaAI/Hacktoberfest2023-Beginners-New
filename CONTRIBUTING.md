@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Sayan Biswas](https://www.linkedin.com/in/sbiswas001)
+
+- Place: Kolkata, India
+- Bio: Computer Science Student | Full Stack Developer
+- Affiliation : Undergraduate
+- GitHub: [Sbiswas001](https://github.com/Sbiswas001)
