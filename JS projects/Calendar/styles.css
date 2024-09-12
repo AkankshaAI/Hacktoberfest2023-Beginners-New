@@ -1,0 +1,63 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0a192f;
+}
+
+.calendar {
+    background-color: #112240;
+    color: #e8e6e3;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+button {
+    background-color: #f9a602;
+    color: #112240;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.weekdays {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.days {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    width: 100%;
+    gap: 10px;
+}
+
+.days div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #112240;
+    cursor: pointer;
+}
+
+.selected {
+    background-color: #04e762;
+    color: #112240;
+}

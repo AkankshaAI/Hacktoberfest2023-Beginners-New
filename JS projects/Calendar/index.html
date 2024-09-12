@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Neon Calendar</title>
+</head>
+<body>
+    <div class="calendar">
+        <div class="header">
+            <button id="prevBtn" onclick="prevMonth()">&lt;</button>
+            <h2 id="monthYear"></h2>
+            <button id="nextBtn" onclick="nextMonth()">&gt;</button>
+        </div>
+        <div class="weekdays">
+            <div>Sun</div>
+            <div>Mon</div>
+            <div>Tue</div>
+            <div>Wed</div>
+            <div>Thu</div>
+            <div>Fri</div>
+            <div>Sat</div>
+        </div>
+        <div class="days" id="days"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
