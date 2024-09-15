@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Keya Karkun](https://github.com/keyakarkun)
+
+- Place: Pune, Maharashtra, India
+- Bio: College Student | Android developer
+- GitHub: [Kankana](https://github.com/keyakarkun)
