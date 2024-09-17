@@ -130,5 +130,12 @@
 
 - Place: Pakistan, Islamabad
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
-- Affiliation : Air University
+- Affiliation: Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Manjeet Sharma](https://www.linkedin.com/in/manjeet-sharma-338868214/)
+
+- Place: India, Kolkata
+- Bio: CSE Student | Full Stack Developer
+- Affiliation: Sister Nivedita University
+- GitHub: [Manjeet Sharma](https://github.com/manjeetsharma0796)
