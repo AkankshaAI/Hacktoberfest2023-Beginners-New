@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Sneha Pandey](https://github.com/sneha9231)
+
+- Place: India, Delhi
+- Bio: Exploring the unexplored in tech.
+- Affiliation : Guru Gobind Singh Indrapastha University
+- GitHub: [Sneha Pandey](https://github.com/sneha9231)
