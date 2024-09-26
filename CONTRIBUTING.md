@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Fabian Cristancho](https://github.com/FabianCristancho)
+
+- Place: Bogota, Colombia
+- Bio: Software Engineer | MERN Stack Developer 
+- Affiliation : UPTC University
+- GitHub: [FabianCristancho](https://github.com/FabianCristancho)
