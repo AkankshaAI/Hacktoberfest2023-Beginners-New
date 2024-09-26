@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+- #### Name: [Vivek Singh](https://github.com/viv1sngh)
+
+- Place: New Delhi,India
+- Bio: Web Developer, Digital Marketer
+- Affiliation : Udemy, Great Learning
+- GitHub: [viv1sngh](https://github.com/viv1sngh)
