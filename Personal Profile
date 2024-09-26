@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Profile</title>
+</head>
+<body>
+    <h1 id="name">Your Name</h1>
+    <p id="location">Location: Your City/Country</p>
+    
+    <h2>Academics</h2>
+    <p id="school">Your School</p>
+    
+    <h2>Interests</h2>
+    <ul id="interests">
+        <li>Some Things You Like</li>
+    </ul>
+    
+    <h2>Development</h2>
+    <p id="development">Inventor of the My Pillow</p>
+
+    <script>
+        // JavaScript to update the information dynamically
+        document.getElementById("name").textContent = "Your Name";
+        document.getElementById("location").textContent = "Location: Your City/Country";
+        document.getElementById("school").textContent = "Your School";
+
+        // Add interests dynamically
+        const interests = ["Some Things You Like"];
+        const interestsList = document.getElementById("interests");
+        interests.forEach(interest => {
+            const li = document.createElement("li");
+            li.textContent = interest;
+            interestsList.appendChild(li);
+        });
+
+        document.getElementById("development").textContent = "Inventor of the My Pillow";
+    </script>
+</body>
+</html>
