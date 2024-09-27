@@ -12,6 +12,12 @@
 - Bio: Cyber Security Analyst , Open Source Contributor , Web Developer
 - Affiliation : University Estácio de Sá
 - GitHub: [MMVonnSeek](https://github.com/MMVonnSeek)
+- 
+#### Name: [Amitabh Kumar](https://github.com/kamitabh24)
+- Place: West Bengal,India
+- Bio: SDE intern at Desiqna, Open Source Contributor, Web Developer
+- Affiliation : Techno University 
+- GitHub: [Amitabh kumar](https://github.com/kamitabh24)
 
 #### Name: [Hritik Kumar](https://github.com/hritik-6918)
 
