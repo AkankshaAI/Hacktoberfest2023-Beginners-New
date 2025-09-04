@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Prabhat kumar singh](https://www.linkedin.com/in/prabhat8881/)
+
+- Place: Varanasi, Uttar Pradesh.
+- Bio: Software Engineer.
+- Affiliation : GLA University
+- GitHub: [Prabhat Kumar Singh](https://github.com/prabhat34)
