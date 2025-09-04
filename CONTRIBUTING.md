@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Shanka Visal](https://www.linkedin.com/in/shanka-visal-499850140/)
+
+- Place: Gampaha, SriLanka
+- Bio: Undergraduate student
+- Affiliation : Sabaragamuwa University of SriLanka
+- GitHub: [Shanka Visal](https://github.com/ShankaVisal)
