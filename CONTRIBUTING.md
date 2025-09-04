@@ -132,3 +132,12 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Harsheet Sharma]
+
+- Place: Dehradun, India
+- Bio: Software Engineer | MERN Stack Developer 
+- Affiliation : DIT University
+- GitHub: [Harsheet Sharma](https://github.com/ab1123)
+
+
