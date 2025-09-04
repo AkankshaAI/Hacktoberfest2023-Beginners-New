@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Anam Elahi](https://github.com/anamelahi)
+
+- Place: New Delhi, Delhi, India
+- Bio: Frontend developer
+- GitHub: [anamelahi](https://github.com/anamelahi)
