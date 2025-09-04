@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Sukanya Gurav](https://github.com/sukanyagurav)
+
+- Place: India
+- Bio: Web developer | Frontend Developer
+- GitHub: [Sukanya Gurav](https://github.com/sukanyagurav)
