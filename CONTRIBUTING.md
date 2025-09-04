@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Vedang Paithankar](https://www.linkedin.com/in/vedang-paithankar/)
+
+- Place: India, Maharashtra
+- Bio: Data Science Analyst | MERN Stack Developer 
+- Affiliation : Great Learning
+- GitHub: [Vedang Paithankar](https://github.com/VedangPaithankar)
