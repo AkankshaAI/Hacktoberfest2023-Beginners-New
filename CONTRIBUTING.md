@@ -5,6 +5,13 @@
 - Affiliation : Indira Gandhi Delhi Technical University for Women
 - GitHub: [AkankshaAI](https://github.com/AkankshaAI)
 
+#### Name: [Kudaya Paul Yao](https://github.com/0xNunana)
+
+- Place:Accra, Ghana
+- Bio: Software Devekoper,Open Source Contributor , Traveller
+- Affiliation : Envisio Live
+- GitHub: [0xNunana](https://github.com/0xNunana)
+
 
 #### Name: [Max Muller](https://github.com/MMVonnSeek)
 
