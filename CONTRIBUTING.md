@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Shankholi Ray](https://www.linkedin.com/in/shankholi-ray-596ab7118/)
+
+- Place: West Bengal, India
+- Bio: Software Engineer | MERN Stack Developer 
+- Affiliation : Techno main salt lake
+- GitHub: [Shankholi Ray](https://github.com/shank1729)
