@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Aman Prasad](https://www.linkedin.com/in/aman-prasad-9966971a1)
+
+- Place: Jamshedpur, Jharkhand
+- Bio: Mobile Application Developer (Android, iOS) | Cyber Security | GSoC 2022
+- Affiliation : Visvesvaraya Technological University
+- GitHub: [Aman Prasad](https://github.com/coder-aman2346)
