@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Ankit kumar](https://github.com/Ankit180898)
+
+- Place: Bangalore, India
+- Bio: Font-End Developer
+- Affiliation : University of Engineering & Management, Kolkata
+- GitHub: [Ankit180898](https://github.com/Ankit180898)
