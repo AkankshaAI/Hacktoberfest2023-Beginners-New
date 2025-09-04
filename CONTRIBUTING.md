@@ -132,3 +132,9 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+#### Name: [James Ngandu](https://github.com/jmngandu)
+
+- Place: Nairobi, Kitui, Kenya
+- Bio: Computer scientist | Frontend developer 
+- Affiliation : University of Eldoret
+- GitHub: [jmngandu](https://github.com/jmngandu)
