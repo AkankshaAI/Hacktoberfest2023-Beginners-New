@@ -126,6 +126,13 @@
 - Affiliation - Great Learning, Problem solver.
 - GitHub: [Sahil Rajput](https://github.com/sahilrajput18)
 
+  ### Name: [Vianayk Sharma](https://github.com/vinayak19-alt)
+
+- Place: Agra, Uttar Pradesh.
+- Bio: Mobile App Developer, Cricketer
+- Affiliation - SRM University
+- GitHub: [Vinayak Sharma](https://github.com/vinayak19-alt)
+
 #### Name: [Abdul Rehan](https://www.linkedin.com/in/abrehan)
 
 - Place: Pakistan, Islamabad
