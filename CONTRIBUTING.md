@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Sushant Gupta](https://github.com/Sushant626)
+
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: Problem Solving enthusiast stepping into the realm of open source
+- Affiliation : Birla Institute of Technology, Mesra
+- GitHub: [Sushant626](https://github.com/Sushant626)
