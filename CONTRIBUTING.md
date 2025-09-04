@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name : [Anushka Saraswat](https://github.com/SaraswatAnushka)
+
+- Place: Ghaziabad, Uttar Pradesh, India
+- Bio : Btech undergraduate | Data analyst
+- Github: [Anushka Saraswat](https://github.com/SaraswatAnushka)
+
