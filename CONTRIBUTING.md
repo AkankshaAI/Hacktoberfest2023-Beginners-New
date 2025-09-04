@@ -132,3 +132,8 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+#### Name: [Kumud Verma](https://github.com/KUMUD-TECH/) 
+- Place: Greater Noida, Uttar Pradesh, India
+- Bio: Second year Information Technology Student, Web Developer
+- Github: [KUMUD-TECH](https://github.com/KUMUD-TECH/)
